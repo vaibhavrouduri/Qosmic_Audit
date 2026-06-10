@@ -1,0 +1,521 @@
+{
+  "extracted_dom_details": {
+    "title": "Gift Cards \u2013 Zen Rojas",
+    "meta_description": "",
+    "canonical_url": "https://zenrojas.com/collections/gift-cards",
+    "h1_text": "Gift Cards",
+    "select_text": "Featured Most relevant Best selling Alphabetically, A-Z Alphabetically, Z-A Price, low to high Price, high to low Date, old to new Date, new to old",
+    "links": [
+      {
+        "href": "https://zenrojas.com/collections/gift-cards#MainContent",
+        "text": "Skip to content"
+      },
+      {
+        "href": "https://zenrojas.com/",
+        "text": "HOME"
+      },
+      {
+        "href": "https://zenrojas.com/collections/teas",
+        "text": ""
+      },
+      {
+        "href": "https://zenrojas.com/collections/teaware",
+        "text": ""
+      },
+      {
+        "href": "https://zenrojas.com/collections/gift-cards",
+        "text": ""
+      },
+      {
+        "href": "https://zenrojas.com/pages/contactus",
+        "text": "CONTACT US"
+      },
+      {
+        "href": "https://zenrojas.com/pages/aboutus",
+        "text": "ABOUT US"
+      },
+      {
+        "href": "https://zenrojas.com/customer_authentication/redirect?locale=en&region_country=US",
+        "text": "Log in"
+      },
+      {
+        "href": "https://shopify.com/27573977165/account?locale=en&buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ6ZW4tcm9qYXMubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzgxNjQ5MTA3LCJuYmYiOjE3ODEwNDQzMDd9.t0J7suR1i3hGB_53Hox2w84ul7c74QinN_XRHeSrLls",
+        "text": "Create account"
+      },
+      {
+        "href": "https://zenrojas.com/search",
+        "text": "Search"
+      },
+      {
+        "href": "https://zenrojas.com/blogs/weekly-blog",
+        "text": "Blog"
+      },
+      {
+        "href": "https://zenrojas.com/pages/ambassadorprogram",
+        "text": "Ambassador Program"
+      },
+      {
+        "href": "https://zenrojas.com/pages/faqs",
+        "text": "FAQs"
+      },
+      {
+        "href": "https://zenrojas.com/pages/returnpolicy",
+        "text": "Refund Policy"
+      },
+      {
+        "href": "https://zenrojas.com/pages/privacypolicy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://zenrojas.com/policies/terms-of-service",
+        "text": "Terms of Service"
+      },
+      {
+        "href": "https://www.facebook.com/zenrojas0",
+        "text": "Facebook"
+      },
+      {
+        "href": "https://twitter.com/ZenRojas0",
+        "text": "Twitter"
+      },
+      {
+        "href": "https://www.instagram.com/zen_rojas/",
+        "text": "Instagram"
+      },
+      {
+        "href": "https://zenrojas.com/",
+        "text": ""
+      },
+      {
+        "href": "https://zenrojas.com/cart",
+        "text": "VIEW CART"
+      },
+      {
+        "href": "https://zenrojas.com/products/zen-rojas-e-giftcard",
+        "text": "Zen Rojas Zen Rojas E-giftcard From $10"
+      },
+      {
+        "href": "https://zenrojas.com/search",
+        "text": "SEARCH"
+      },
+      {
+        "href": "https://zenrojas.com/blogs/weekly-blog",
+        "text": "BLOG"
+      },
+      {
+        "href": "https://zenrojas.com/pages/ambassadorprogram",
+        "text": "AMBASSADOR PROGRAM"
+      },
+      {
+        "href": "https://zenrojas.com/pages/faqs",
+        "text": "FAQS"
+      },
+      {
+        "href": "https://zenrojas.com/pages/returnpolicy",
+        "text": "REFUND POLICY"
+      },
+      {
+        "href": "https://zenrojas.com/pages/privacypolicy",
+        "text": "PRIVACY POLICY"
+      },
+      {
+        "href": "https://zenrojas.com/policies/terms-of-service",
+        "text": "TERMS OF SERVICE"
+      },
+      {
+        "href": "https://www.facebook.com/zenrojas0",
+        "text": "Facebook"
+      },
+      {
+        "href": "https://twitter.com/ZenRojas0",
+        "text": "Twitter"
+      },
+      {
+        "href": "https://www.instagram.com/zen_rojas/",
+        "text": "Instagram"
+      },
+      {
+        "href": "https://zenrojas.com/",
+        "text": "Zen Rojas"
+      },
+      {
+        "href": "https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore",
+        "text": "Powered by Shopify"
+      },
+      {
+        "href": "https://zenrojas.com/collections/gift-cards",
+        "text": ""
+      },
+      {
+        "href": "https://zenrojas.com/collections/gift-cards",
+        "text": ""
+      }
+    ],
+    "button_texts": [
+      "MENU",
+      "PRODUCTS PRODUCTS MENU",
+      "SEARCH AGAIN",
+      "VIEW CART",
+      "SUBSCRIBE",
+      "CLOSE CART",
+      "Remove",
+      "CHECKOUT"
+    ],
+    "forms": [
+      {
+        "index": 0,
+        "action": "https://zenrojas.com/search",
+        "method": "get",
+        "labels": [],
+        "inputs": [
+          {
+            "tag": "input",
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search",
+            "text": "Search"
+          },
+          {
+            "tag": "button",
+            "type": "submit",
+            "name": null,
+            "placeholder": null,
+            "text": "SEARCH AGAIN"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "action": "https://zenrojas.com/contact#contact_form",
+        "method": "post",
+        "labels": [
+          "STAY CONNECTED"
+        ],
+        "inputs": [
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": null,
+            "text": "customer"
+          },
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": null,
+            "text": "\u2713"
+          },
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "contact[tags]",
+            "placeholder": null,
+            "text": "newsletter"
+          },
+          {
+            "tag": "input",
+            "type": "email",
+            "name": "contact[email]",
+            "placeholder": "My email address",
+            "text": "My email address"
+          },
+          {
+            "tag": "button",
+            "type": "submit",
+            "name": null,
+            "placeholder": null,
+            "text": "SUBSCRIBE"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "action": "https://zenrojas.com/cart",
+        "method": "post",
+        "labels": [
+          "Item Quantity",
+          "Special instructions for seller"
+        ],
+        "inputs": [
+          {
+            "tag": "button",
+            "type": "button",
+            "name": null,
+            "placeholder": null,
+            "text": "CLOSE CART"
+          },
+          {
+            "tag": "button",
+            "type": "button",
+            "name": null,
+            "placeholder": null,
+            "text": "Remove"
+          },
+          {
+            "tag": "input",
+            "type": "number",
+            "name": null,
+            "placeholder": null,
+            "text": "Item Quantity"
+          },
+          {
+            "tag": "textarea",
+            "type": null,
+            "name": "note",
+            "placeholder": null,
+            "text": null
+          },
+          {
+            "tag": "button",
+            "type": "submit",
+            "name": "checkout",
+            "placeholder": null,
+            "text": "CHECKOUT"
+          }
+        ]
+      }
+    ],
+    "structured_data_count": 0,
+    "structured_data_types": [],
+    "json_ld_product": false,
+    "favicon_links": [],
+    "product_card_count": 5,
+    "quantity_inputs": 1,
+    "image_count": 2,
+    "images_missing_alt_count": 1,
+    "privacy_or_cookie_links": [
+      "https://zenrojas.com/pages/privacypolicy",
+      "https://zenrojas.com/pages/privacypolicy"
+    ],
+    "performance_timing": {
+      "dom_content_loaded_ms": 546,
+      "load_event_ms": 1181,
+      "response_end_ms": 334
+    }
+  },
+  "page_entry": {
+    "surface_type": "collection",
+    "url": "https://zenrojas.com/collections/gift-cards",
+    "final_url": "https://zenrojas.com/collections/gift-cards",
+    "status": 200,
+    "blocked": false,
+    "blocked_reasons": [],
+    "cloudflare_detected": false,
+    "artifact_label": "storefront_evidence",
+    "title": "Gift Cards \u2013 Zen Rojas",
+    "meta_description": "",
+    "screenshot_paths": {
+      "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-collections-gift-cards-607a0320-desktop.png",
+      "mobile": null
+    },
+    "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-collections-gift-cards-607a0320.html",
+    "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-collections-gift-cards-607a0320.txt",
+    "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-collections-gift-cards-607a0320.json",
+    "internal_links": [
+      "https://zenrojas.com/",
+      "https://zenrojas.com/products/zen-rojas-e-giftcard",
+      "https://zenrojas.com/collections/gift-cards",
+      "https://zenrojas.com/collections/teas",
+      "https://zenrojas.com/collections/teaware",
+      "https://zenrojas.com/cart",
+      "https://zenrojas.com/pages/contactus",
+      "https://zenrojas.com/pages/faqs",
+      "https://zenrojas.com/pages/returnpolicy",
+      "https://zenrojas.com/blogs/weekly-blog",
+      "https://zenrojas.com/pages/aboutus",
+      "https://zenrojas.com/pages/ambassadorprogram",
+      "https://zenrojas.com/pages/privacypolicy",
+      "https://zenrojas.com/customer_authentication/redirect",
+      "https://zenrojas.com/policies/terms-of-service",
+      "https://zenrojas.com/search"
+    ],
+    "external_links": [
+      "https://shopify.com/27573977165/account",
+      "https://twitter.com/ZenRojas0",
+      "https://www.facebook.com/zenrojas0",
+      "https://www.instagram.com/zen_rojas/",
+      "https://www.shopify.com/"
+    ],
+    "cta_button_text": [
+      "MENU",
+      "PRODUCTS PRODUCTS MENU",
+      "SEARCH AGAIN",
+      "VIEW CART",
+      "SUBSCRIBE",
+      "CLOSE CART",
+      "Remove",
+      "CHECKOUT"
+    ],
+    "forms_detected": [
+      {
+        "index": 0,
+        "action": "https://zenrojas.com/search",
+        "method": "get",
+        "labels": [],
+        "inputs": [
+          {
+            "tag": "input",
+            "type": "search",
+            "name": "q",
+            "placeholder": "Search",
+            "text": "Search"
+          },
+          {
+            "tag": "button",
+            "type": "submit",
+            "name": null,
+            "placeholder": null,
+            "text": "SEARCH AGAIN"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "action": "https://zenrojas.com/contact#contact_form",
+        "method": "post",
+        "labels": [
+          "STAY CONNECTED"
+        ],
+        "inputs": [
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "form_type",
+            "placeholder": null,
+            "text": "customer"
+          },
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "utf8",
+            "placeholder": null,
+            "text": "\u2713"
+          },
+          {
+            "tag": "input",
+            "type": "hidden",
+            "name": "contact[tags]",
+            "placeholder": null,
+            "text": "newsletter"
+          },
+          {
+            "tag": "input",
+            "type": "email",
+            "name": "contact[email]",
+            "placeholder": "My email address",
+            "text": "My email address"
+          },
+          {
+            "tag": "button",
+            "type": "submit",
+            "name": null,
+            "placeholder": null,
+            "text": "SUBSCRIBE"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "action": "https://zenrojas.com/cart",
+        "method": "post",
+        "labels": [
+          "Item Quantity",
+          "Special instructions for seller"
+        ],
+        "inputs": [
+          {
+            "tag": "button",
+            "type": "button",
+            "name": null,
+            "placeholder": null,
+            "text": "CLOSE CART"
+          },
+          {
+            "tag": "button",
+            "type": "button",
+            "name": null,
+            "placeholder": null,
+            "text": "Remove"
+          },
+          {
+            "tag": "input",
+            "type": "number",
+            "name": null,
+            "placeholder": null,
+            "text": "Item Quantity"
+          },
+          {
+            "tag": "textarea",
+            "type": null,
+            "name": "note",
+            "placeholder": null,
+            "text": null
+          },
+          {
+            "tag": "button",
+            "type": "submit",
+            "name": "checkout",
+            "placeholder": null,
+            "text": "CHECKOUT"
+          }
+        ]
+      }
+    ],
+    "product_signals": {
+      "looks_like_product": false,
+      "product_title_present": true,
+      "price_visible": true,
+      "compare_at_or_discount_visible": true,
+      "add_to_cart_visible": false,
+      "buy_button_visible": true,
+      "subscription_option_visible": true,
+      "variant_selector_visible": false,
+      "reviews_or_ratings_visible": false,
+      "shipping_or_returns_visible": true,
+      "stock_or_availability_visible": false,
+      "retailer_handoff_visible": false,
+      "quantity_selector_visible": true,
+      "bundle_or_upsell_visible": false,
+      "trust_badges_or_guarantees_visible": false
+    },
+    "collection_signals": {
+      "looks_like_collection": true,
+      "product_grid_visible": true,
+      "filters_visible": false,
+      "sorting_visible": true,
+      "category_copy_visible": true,
+      "product_cards_visible": true,
+      "price_visibility": true,
+      "review_visibility": false,
+      "quick_add_visible": false,
+      "need_or_use_case_navigation_visible": false,
+      "empty_or_broken_state": false
+    },
+    "content_signals": {
+      "looks_like_content_page": false,
+      "answers_high_intent_question": true,
+      "products_linked": true,
+      "calls_to_action_visible": true,
+      "buying_or_locator_path_visible": false,
+      "appears_stale_empty_broken_or_thin": false
+    },
+    "structured_data_count": 0,
+    "favicon_links": [],
+    "privacy_or_cookie_links": [
+      "https://zenrojas.com/pages/privacypolicy",
+      "https://zenrojas.com/pages/privacypolicy"
+    ],
+    "image_count": 2,
+    "images_missing_alt_count": 1,
+    "load_timing_ms": {
+      "dom_content_loaded_ms": 546,
+      "load_event_ms": 1181,
+      "response_end_ms": 334
+    },
+    "errors_or_blocking_details": [],
+    "elapsed_ms": 5541,
+    "mobile_capture_skipped": true,
+    "structured_data_types": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "eval_result_path": "eval_results/gingerpeople.com_audit.json",
+  "report_path": "sample_output/gingerpeople.com_audit.md",
+  "score": 97,
+  "passed": true,
+  "selected_run": "artifacts/gingerpeople.com-20260609T195304Z",
+  "failure_count": 0,
+  "warning_count": 1,
+  "human_agrees": false,
+  "human_reason": "report_useful_but_too_risky",
+  "human_note": "The opening paragraph is too long, we need to compress that. And it should be more plain natural language. o check the confidence and other numeric values, they need to make sense",
+  "timestamp_utc": "2026-06-09T20:03:10.653183Z"
+}

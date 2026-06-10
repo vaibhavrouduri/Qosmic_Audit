@@ -1,0 +1,13 @@
+{
+  "eval_result_path": "eval_results/zenrojas.com_audit_revised.json",
+  "report_path": "sample_output/zenrojas.com_audit_revised.md",
+  "score": 100,
+  "passed": true,
+  "selected_run": "artifacts/zenrojas.com-20260609T223052Z",
+  "failure_count": 0,
+  "warning_count": 0,
+  "human_agrees": false,
+  "human_reason": "report_useful_but_too_risky",
+  "human_note": "The executive summary is too verbose and difficult to read",
+  "timestamp_utc": "2026-06-09T23:21:04.399408Z"
+}

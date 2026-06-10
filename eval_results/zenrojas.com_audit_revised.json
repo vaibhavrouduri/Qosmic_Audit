@@ -1,0 +1,149 @@
+{
+  "score": 100,
+  "passed": true,
+  "report": "sample_output/zenrojas.com_audit_revised.md",
+  "report_path": "sample_output/zenrojas.com_audit_revised.md",
+  "manifest": "artifacts/zenrojas.com-20260609T223052Z/manifest.json",
+  "manifest_path": "artifacts/zenrojas.com-20260609T223052Z/manifest.json",
+  "selected_run": "artifacts/zenrojas.com-20260609T223052Z",
+  "failures": [],
+  "warnings": [],
+  "details": {
+    "major_sections": [
+      "Executive summary",
+      "Proposed experiments",
+      "Competitor analysis",
+      "Technical checks"
+    ],
+    "experiment_count": 10,
+    "experiment_headings": [
+      "exp-zr-001 — Add a ritual finder above the product grid",
+      "exp-zr-002 — Recover sold-out tea demand with back-in-stock capture",
+      "exp-zr-003 — Make PDP proof scannable near add-to-cart",
+      "exp-zr-004 — Turn samplers into the default discovery path",
+      "exp-zr-005 — Expand frequently bought together by ritual",
+      "exp-zr-006 — Make newsletter capture use-case specific",
+      "exp-zr-007 — Build a replenishment reminder from cup counts",
+      "exp-zr-008 — Create SEO landing pages for high-intent tea needs",
+      "exp-zr-009 — Add product and breadcrumb structured data",
+      "exp-zr-010 — Improve crawl-time image and brand signals"
+    ],
+    "pillars": [
+      "AOV",
+      "Acquisition",
+      "Conversion",
+      "Performance",
+      "Retention"
+    ],
+    "competitor_table": true,
+    "technical_table": true,
+    "artifact_path_count": 20,
+    "artifact_paths": [
+      "artifacts/zenrojas.com-20260609T223052Z/manifest.json",
+      "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-c9a96298.json",
+      "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-collections-all-ce5d200c.json",
+      "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-products-blacktea-9cc1bdcb.json",
+      "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-products-bodyguardtea-723917e1.json",
+      "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-products.json-products.json-a7680a87.bin",
+      "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-collections-all-ce5d200c-desktop.png",
+      "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-products-blacktea-9cc1bdcb-desktop.png",
+      "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-products-looseleafsamplers-77cadb8c-desktop.png",
+      "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-products-organicsleeptea-93485e52-desktop.png",
+      "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-c9a96298.txt",
+      "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-cart-1742a2f2.txt",
+      "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-collections-all-ce5d200c.txt",
+      "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-products-blacktea-9cc1bdcb.txt",
+      "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-products-bodyguardtea-723917e1.txt",
+      "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-products-looseleafsamplers-77cadb8c.txt",
+      "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-products-organicsleeptea-93485e52.txt",
+      "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-products-tea-bags-6ae5d454.txt",
+      "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-robots.txt-robots.txt-2a17c71d.txt",
+      "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-sitemap.xml-sitemap.xml-d8357f0c.txt"
+    ],
+    "screenshot_path_count": 4,
+    "high_confidence_count": 0,
+    "high_confidences": [],
+    "high_lift_range_count": 0,
+    "high_lift_ranges": [],
+    "unsupported_claim_language_count": 0,
+    "unsupported_claim_language_matches": [],
+    "parsed_technical_checks": [
+      {
+        "check": "SSL",
+        "status": "Pass",
+        "detail": "Manifest technical checks report normalized URL scheme as `https` (`artifacts/zenrojas.com-20260609T223052Z/manifest.json`)."
+      },
+      {
+        "check": "HTTPS redirect",
+        "status": "Pass",
+        "detail": "Homepage final URL resolved to `https://zenrojas.com/` (`artifacts/zenrojas.com-20260609T223052Z/manifest.json`)."
+      },
+      {
+        "check": "Sitemap",
+        "status": "Pass",
+        "detail": "`/sitemap.xml` returned 200 and listed product, page, collection, blog, and agentic discovery sitemaps (`artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-sitemap.xml-sitemap.xml-d8357f0c.txt`)."
+      },
+      {
+        "check": "Robots.txt",
+        "status": "Pass",
+        "detail": "`/robots.txt` returned 200 and includes a sitemap directive (`artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-robots.txt-robots.txt-2a17c71d.txt`)."
+      },
+      {
+        "check": "Critical pages loading",
+        "status": "Pass",
+        "detail": "Homepage, sampled PDPs, collection pages, and cart returned status 200 with no failed pages in the selected manifest (`artifacts/zenrojas.com-20260609T223052Z/manifest.json`)."
+      },
+      {
+        "check": "Meta tags",
+        "status": "Pass",
+        "detail": "Homepage and sampled PDPs exposed titles and meta descriptions, including Black Tea's product-specific meta description (`artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-products-blacktea-9cc1bdcb.json`)."
+      },
+      {
+        "check": "Structured data",
+        "status": "Warn",
+        "detail": "No JSON-LD found in rendered pages; sampled PDPs show `structured_data_count: 0` and `json_ld_product: false` (`artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-products-blacktea-9cc1bdcb.json`)."
+      },
+      {
+        "check": "Favicon",
+        "status": "Warn",
+        "detail": "Rendered raw artifacts and manifest technical checks found no favicon link (`artifacts/zenrojas.com-20260609T223052Z/manifest.json`)."
+      },
+      {
+        "check": "Mobile friendliness",
+        "status": "Warn",
+        "detail": "Mobile capture was disabled for this required `--no-mobile` run, so mobile layout was not evidenced (`artifacts/zenrojas.com-20260609T223052Z/manifest.json`)."
+      },
+      {
+        "check": "Mobile page speed",
+        "status": "Warn",
+        "detail": "No mobile Lighthouse or mobile navigation timing was captured because mobile capture was disabled (`artifacts/zenrojas.com-20260609T223052Z/manifest.json`)."
+      },
+      {
+        "check": "Desktop page speed",
+        "status": "Pass",
+        "detail": "Rendered desktop timing was captured; homepage load event was 1478 ms and sampled PDP load events were around 1132-1513 ms in raw artifacts (`artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-c9a96298.json`)."
+      },
+      {
+        "check": "Broken links",
+        "status": "Pass",
+        "detail": "Manifest reports 0 sampled broken internal links and no failed pages (`artifacts/zenrojas.com-20260609T223052Z/manifest.json`)."
+      },
+      {
+        "check": "Image optimization",
+        "status": "Warn",
+        "detail": "Manifest reports 31 images without alt text in rendered samples; several direct product image URLs were captured as JPG/HEIC assets (`artifacts/zenrojas.com-20260609T223052Z/manifest.json`)."
+      },
+      {
+        "check": "Cookie/privacy",
+        "status": "Warn",
+        "detail": "Privacy Policy links were detected on rendered pages, but cookie consent behavior was not verified in this crawl (`artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-c9a96298.json`)."
+      },
+      {
+        "check": "Checkout reachable",
+        "status": "Warn",
+        "detail": "Cart page returned 200 and the cart drawer includes a CHECKOUT button, but this audit did not proceed into checkout or payment flows (`artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-cart-1742a2f2.txt`; `artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-c9a96298.txt`)."
+      }
+    ],
+    "technical_warning_count": 0
+  }
+}

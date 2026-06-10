@@ -1,0 +1,22 @@
+Revise the audit report using the eval JSON result.
+
+Report to revise: sample_output/zenrojas.com_audit.md
+Eval JSON: eval_results/zenrojas.com_audit.json
+Save the revised report as: sample_output/zenrojas.com_audit_revised.md
+
+Constraints:
+- Do not recrawl.
+- Do not use new evidence.
+- Only fix the failures and warnings listed in the eval result.
+- Keep artifact citations from the same selected run.
+- Preserve the required report structure from HARNESS_SPEC.md.
+
+Failures to fix: 0
+
+Warnings to fix: 6
+- high_confidence: exp-zr-002 — Recover sold-out tea demand with back-in-stock capture uses high confidence (82%); calibrate confidence to the visible artifact evidence.
+- high_lift_range: exp-zr-001 — Add a ritual finder above the product grid uses high expected lift range (+8-14%); calibrate the upper bound to visible artifact evidence.
+- high_lift_range: exp-zr-002 — Recover sold-out tea demand with back-in-stock capture uses very high expected lift range (+10-18%); upper bounds above 15% need unusually strong selected-run evidence.
+- high_lift_range: exp-zr-004 — Turn samplers into the default discovery path uses high expected lift range (+7-13%); calibrate the upper bound to visible artifact evidence.
+- high_lift_range: exp-zr-006 — Make newsletter capture use-case specific uses high expected lift range (+8-15%); calibrate the upper bound to visible artifact evidence.
+- technical_status_cookie_privacy: Cookie/privacy is marked Pass, but the detail only supports finding a privacy/cookie policy link: Privacy Policy links were detected on rendered pages (`artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-c9a96298.json`).

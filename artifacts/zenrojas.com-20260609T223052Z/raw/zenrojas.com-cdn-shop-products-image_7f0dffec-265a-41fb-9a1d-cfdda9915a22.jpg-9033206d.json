@@ -1,0 +1,101 @@
+{
+  "extracted_dom_details": {
+    "title": "image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg (1496\u00d71202)",
+    "meta_description": "",
+    "canonical_url": "",
+    "h1_text": "",
+    "select_text": "",
+    "links": [],
+    "button_texts": [],
+    "forms": [],
+    "structured_data_count": 0,
+    "structured_data_types": [],
+    "json_ld_product": false,
+    "favicon_links": [],
+    "product_card_count": 0,
+    "quantity_inputs": 0,
+    "image_count": 1,
+    "images_missing_alt_count": 1,
+    "privacy_or_cookie_links": [],
+    "performance_timing": {
+      "dom_content_loaded_ms": 124,
+      "load_event_ms": 124,
+      "response_end_ms": 123
+    }
+  },
+  "page_entry": {
+    "surface_type": "product",
+    "url": "https://zenrojas.com/cdn/shop/products/image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg",
+    "final_url": "https://zenrojas.com/cdn/shop/products/image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg",
+    "status": 200,
+    "blocked": false,
+    "blocked_reasons": [],
+    "cloudflare_detected": false,
+    "artifact_label": "storefront_evidence",
+    "title": "image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg (1496\u00d71202)",
+    "meta_description": "",
+    "screenshot_paths": {
+      "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-cdn-shop-products-image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg-9033206d-desktop.png",
+      "mobile": null
+    },
+    "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-cdn-shop-products-image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg-9033206d.html",
+    "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-cdn-shop-products-image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg-9033206d.txt",
+    "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-cdn-shop-products-image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg-9033206d.json",
+    "internal_links": [],
+    "external_links": [],
+    "cta_button_text": [],
+    "forms_detected": [],
+    "product_signals": {
+      "looks_like_product": true,
+      "product_title_present": false,
+      "price_visible": false,
+      "compare_at_or_discount_visible": false,
+      "add_to_cart_visible": false,
+      "buy_button_visible": false,
+      "subscription_option_visible": false,
+      "variant_selector_visible": false,
+      "reviews_or_ratings_visible": false,
+      "shipping_or_returns_visible": false,
+      "stock_or_availability_visible": false,
+      "retailer_handoff_visible": false,
+      "quantity_selector_visible": true,
+      "bundle_or_upsell_visible": false,
+      "trust_badges_or_guarantees_visible": false
+    },
+    "collection_signals": {
+      "looks_like_collection": false,
+      "product_grid_visible": false,
+      "filters_visible": false,
+      "sorting_visible": false,
+      "category_copy_visible": false,
+      "product_cards_visible": false,
+      "price_visibility": false,
+      "review_visibility": false,
+      "quick_add_visible": false,
+      "need_or_use_case_navigation_visible": false,
+      "empty_or_broken_state": false
+    },
+    "content_signals": {
+      "looks_like_content_page": false,
+      "answers_high_intent_question": false,
+      "products_linked": true,
+      "calls_to_action_visible": false,
+      "buying_or_locator_path_visible": false,
+      "appears_stale_empty_broken_or_thin": true
+    },
+    "structured_data_count": 0,
+    "favicon_links": [],
+    "privacy_or_cookie_links": [],
+    "image_count": 1,
+    "images_missing_alt_count": 1,
+    "load_timing_ms": {
+      "dom_content_loaded_ms": 124,
+      "load_event_ms": 124,
+      "response_end_ms": 123
+    },
+    "errors_or_blocking_details": [],
+    "elapsed_ms": 666,
+    "mobile_capture_skipped": true,
+    "structured_data_types": []
+  }
+}

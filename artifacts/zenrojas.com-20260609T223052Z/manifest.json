@@ -1,0 +1,3740 @@
+{
+  "input_url": "https://zenrojas.com",
+  "normalized_url": "https://zenrojas.com/",
+  "crawl_timestamp": "2026-06-09T22:32:18.442693+00:00",
+  "run_folder": "artifacts/zenrojas.com-20260609T223052Z",
+  "page_count": 18,
+  "max_rendered_pages": 18,
+  "mobile_capture_enabled": false,
+  "headful": true,
+  "selected_pages": [
+    {
+      "surface_type": "homepage",
+      "url": "https://zenrojas.com/",
+      "final_url": "https://zenrojas.com/",
+      "status": 200,
+      "blocked": false
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/products/blacktea",
+      "final_url": "https://zenrojas.com/products/blacktea",
+      "status": 200,
+      "blocked": false
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/cdn/shop/products/image_dd8eae0b-2565-4995-b289-7af7b5d54497.jpg",
+      "final_url": "https://zenrojas.com/cdn/shop/products/image_dd8eae0b-2565-4995-b289-7af7b5d54497.jpg",
+      "status": 200,
+      "blocked": false
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/cdn/shop/products/image_fc6130b9-3c3a-43d3-9641-e7274947d244.heic",
+      "final_url": "https://zenrojas.com/cdn/shop/products/image_fc6130b9-3c3a-43d3-9641-e7274947d244.heic",
+      "status": 200,
+      "blocked": false
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/products/bodyguardtea",
+      "final_url": "https://zenrojas.com/products/bodyguardtea",
+      "status": 200,
+      "blocked": false
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/cdn/shop/products/image_72b7ada2-d563-46bb-ad2e-20ba232dd962.heic",
+      "final_url": "https://zenrojas.com/cdn/shop/products/image_72b7ada2-d563-46bb-ad2e-20ba232dd962.heic",
+      "status": 200,
+      "blocked": false
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/cdn/shop/products/image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg",
+      "final_url": "https://zenrojas.com/cdn/shop/products/image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg",
+      "status": 200,
+      "blocked": false
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/products/looseleafsamplers",
+      "final_url": "https://zenrojas.com/products/looseleafsamplers",
+      "status": 200,
+      "blocked": false
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/products/organicsleeptea",
+      "final_url": "https://zenrojas.com/products/organicsleeptea",
+      "status": 200,
+      "blocked": false
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/cdn/shop/products/image_67f8498a-d9d0-4ee6-8140-bd9e94593c12.jpg",
+      "final_url": "https://zenrojas.com/cdn/shop/products/image_67f8498a-d9d0-4ee6-8140-bd9e94593c12.jpg",
+      "status": 200,
+      "blocked": false
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/cdn/shop/products/image_a97e5d07-c216-4d3b-afdd-ad5db4b6dd9e.heic",
+      "final_url": "https://zenrojas.com/cdn/shop/products/image_a97e5d07-c216-4d3b-afdd-ad5db4b6dd9e.heic",
+      "status": 200,
+      "blocked": false
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/products/tea-bags",
+      "final_url": "https://zenrojas.com/products/tea-bags",
+      "status": 200,
+      "blocked": false
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/cdn/shop/products/image_3d0a9d28-1690-4632-9a29-784fe209c828.heic",
+      "final_url": "https://zenrojas.com/cdn/shop/products/image_3d0a9d28-1690-4632-9a29-784fe209c828.heic",
+      "status": 200,
+      "blocked": false
+    },
+    {
+      "surface_type": "collection",
+      "url": "https://zenrojas.com/collections/best-sellers",
+      "final_url": "https://zenrojas.com/collections/best-sellers",
+      "status": 200,
+      "blocked": false
+    },
+    {
+      "surface_type": "collection",
+      "url": "https://zenrojas.com/collections/gift-cards",
+      "final_url": "https://zenrojas.com/collections/gift-cards",
+      "status": 200,
+      "blocked": false
+    },
+    {
+      "surface_type": "collection",
+      "url": "https://zenrojas.com/collections/tea-essentials",
+      "final_url": "https://zenrojas.com/collections/tea-essentials",
+      "status": 200,
+      "blocked": false
+    },
+    {
+      "surface_type": "cart",
+      "url": "https://zenrojas.com/cart",
+      "final_url": "https://zenrojas.com/cart",
+      "status": 200,
+      "blocked": false
+    },
+    {
+      "surface_type": "collection",
+      "url": "https://zenrojas.com/collections/all",
+      "final_url": "https://zenrojas.com/collections/all",
+      "status": 200,
+      "blocked": false
+    }
+  ],
+  "pages": [
+    {
+      "surface_type": "homepage",
+      "url": "https://zenrojas.com/",
+      "final_url": "https://zenrojas.com/",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "Home Page – Zen Rojas",
+      "meta_description": "100% Organic Loose Leaf tea",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-c9a96298-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-c9a96298.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-c9a96298.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-c9a96298.json",
+      "internal_links": [
+        "https://zenrojas.com/",
+        "https://zenrojas.com/products/blacktea",
+        "https://zenrojas.com/products/bodyguardtea",
+        "https://zenrojas.com/products/heartburntea",
+        "https://zenrojas.com/products/looseleafsamplers",
+        "https://zenrojas.com/products/organicsleeptea",
+        "https://zenrojas.com/products/premiumsenchagreentea",
+        "https://zenrojas.com/products/tea-bags",
+        "https://zenrojas.com/products/tea-seeper",
+        "https://zenrojas.com/products/teabagsamplers",
+        "https://zenrojas.com/products/zen-rojas-mug",
+        "https://zenrojas.com/collections/best-sellers",
+        "https://zenrojas.com/collections/gift-cards",
+        "https://zenrojas.com/collections/teas",
+        "https://zenrojas.com/collections/teaware",
+        "https://zenrojas.com/cart",
+        "https://zenrojas.com/pages/contactus",
+        "https://zenrojas.com/pages/faqs",
+        "https://zenrojas.com/pages/returnpolicy",
+        "https://zenrojas.com/blogs/weekly-blog",
+        "https://zenrojas.com/blogs/weekly-blog/bold-journey",
+        "https://zenrojas.com/blogs/weekly-blog/building-a-family-legacy-through-wellness-community-and-purpose-driven-growth",
+        "https://zenrojas.com/blogs/weekly-blog/meet-jesse-rojas-of-zen-rojas",
+        "https://zenrojas.com/pages/aboutus",
+        "https://zenrojas.com/pages/ambassadorprogram",
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/customer_authentication/redirect",
+        "https://zenrojas.com/policies/terms-of-service",
+        "https://zenrojas.com/search"
+      ],
+      "external_links": [
+        "https://shopify.com/27573977165/account",
+        "https://twitter.com/ZenRojas0",
+        "https://www.facebook.com/zenrojas0",
+        "https://www.instagram.com/zen_rojas/",
+        "https://www.shopify.com/"
+      ],
+      "cta_button_text": [
+        "MENU",
+        "PRODUCTS PRODUCTS MENU",
+        "SEARCH AGAIN",
+        "VIEW CART",
+        "DISCOVER YOUR RITUAL",
+        "SHOP ORGANIC SLEEP TEA",
+        "SHOP BODYGUARD ORGANIC TEA",
+        "SHOP PREMIUM SENCHA ORGANIC GREEN TEA",
+        "SHOP HEARTBURN ORGANIC TEA",
+        "VIEW ALL",
+        "SUBSCRIBE",
+        "CLOSE CART",
+        "Remove",
+        "CHECKOUT"
+      ],
+      "forms_detected": [
+        {
+          "index": 0,
+          "action": "https://zenrojas.com/search",
+          "method": "get",
+          "labels": [],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search",
+              "text": "Search"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SEARCH AGAIN"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "action": "https://zenrojas.com/contact#contact_form",
+          "method": "post",
+          "labels": [],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": null,
+              "text": "customer"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": null,
+              "text": "✓"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "contact[tags]",
+              "placeholder": null,
+              "text": "newsletter"
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "contact[email]",
+              "placeholder": "My email address",
+              "text": "My email address"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SUBSCRIBE"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "action": "https://zenrojas.com/contact#contact_form",
+          "method": "post",
+          "labels": [
+            "STAY CONNECTED"
+          ],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": null,
+              "text": "customer"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": null,
+              "text": "✓"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "contact[tags]",
+              "placeholder": null,
+              "text": "newsletter"
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "contact[email]",
+              "placeholder": "My email address",
+              "text": "My email address"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SUBSCRIBE"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "action": "https://zenrojas.com/cart",
+          "method": "post",
+          "labels": [
+            "Item Quantity",
+            "Special instructions for seller"
+          ],
+          "inputs": [
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "CLOSE CART"
+            },
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "Remove"
+            },
+            {
+              "tag": "input",
+              "type": "number",
+              "name": null,
+              "placeholder": null,
+              "text": "Item Quantity"
+            },
+            {
+              "tag": "textarea",
+              "type": null,
+              "name": "note",
+              "placeholder": null,
+              "text": null
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": "checkout",
+              "placeholder": null,
+              "text": "CHECKOUT"
+            }
+          ]
+        }
+      ],
+      "product_signals": {
+        "looks_like_product": false,
+        "product_title_present": false,
+        "price_visible": true,
+        "compare_at_or_discount_visible": true,
+        "add_to_cart_visible": false,
+        "buy_button_visible": true,
+        "subscription_option_visible": true,
+        "variant_selector_visible": false,
+        "reviews_or_ratings_visible": false,
+        "shipping_or_returns_visible": true,
+        "stock_or_availability_visible": false,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": false,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": false,
+        "product_grid_visible": true,
+        "filters_visible": false,
+        "sorting_visible": false,
+        "category_copy_visible": false,
+        "product_cards_visible": true,
+        "price_visibility": true,
+        "review_visibility": false,
+        "quick_add_visible": false,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": true,
+        "products_linked": true,
+        "calls_to_action_visible": true,
+        "buying_or_locator_path_visible": false,
+        "appears_stale_empty_broken_or_thin": false
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/pages/privacypolicy"
+      ],
+      "image_count": 13,
+      "images_missing_alt_count": 7,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 764,
+        "load_event_ms": 1478,
+        "response_end_ms": 473
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 6219,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/products/blacktea",
+      "final_url": "https://zenrojas.com/products/blacktea",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "Organic Black Tea – Zen Rojas",
+      "meta_description": "Bold Flavor, Mindful Energy Savor the rich, full-bodied taste of Organic Black Tea, crafted from the finest leaves sourced from Sri Lanka and India. Ethically grown and naturally caffeinated, this traditional tea delivers a lively flavor perfect for mindful mornings or vibrant afternoons.",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-products-blacktea-9cc1bdcb-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-products-blacktea-9cc1bdcb.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-products-blacktea-9cc1bdcb.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-products-blacktea-9cc1bdcb.json",
+      "internal_links": [
+        "https://zenrojas.com/",
+        "https://zenrojas.com/cdn/shop/products/image_dd8eae0b-2565-4995-b289-7af7b5d54497.jpg",
+        "https://zenrojas.com/cdn/shop/products/image_fc6130b9-3c3a-43d3-9641-e7274947d244.heic",
+        "https://zenrojas.com/products/blacktea",
+        "https://zenrojas.com/products/bodyguardtea",
+        "https://zenrojas.com/products/looseleafsamplers",
+        "https://zenrojas.com/products/tea-bags",
+        "https://zenrojas.com/products/teabagsamplers",
+        "https://zenrojas.com/collections/gift-cards",
+        "https://zenrojas.com/collections/teas",
+        "https://zenrojas.com/collections/teaware",
+        "https://zenrojas.com/cart",
+        "https://zenrojas.com/pages/contactus",
+        "https://zenrojas.com/pages/faqs",
+        "https://zenrojas.com/pages/returnpolicy",
+        "https://zenrojas.com/blogs/weekly-blog",
+        "https://zenrojas.com/pages/aboutus",
+        "https://zenrojas.com/pages/ambassadorprogram",
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/cdn/shop/files/Price_sheet_1.png",
+        "https://zenrojas.com/customer_authentication/redirect",
+        "https://zenrojas.com/policies/terms-of-service",
+        "https://zenrojas.com/search"
+      ],
+      "external_links": [
+        "https://pinterest.com/pin/create/button/",
+        "https://shopify.com/27573977165/account",
+        "https://twitter.com/ZenRojas0",
+        "https://twitter.com/share",
+        "https://www.facebook.com/sharer.php",
+        "https://www.facebook.com/zenrojas0",
+        "https://www.instagram.com/zen_rojas/",
+        "https://www.shopify.com/"
+      ],
+      "cta_button_text": [
+        "MENU",
+        "PRODUCTS PRODUCTS MENU",
+        "SEARCH AGAIN",
+        "VIEW CART",
+        "ADD TO CART",
+        "More payment options",
+        "Add bundle to cart",
+        "SHARE",
+        "Share",
+        "SUBSCRIBE",
+        "CLOSE CART",
+        "Remove",
+        "CHECKOUT",
+        "PREVIOUS",
+        "NEXT",
+        "Slide 1",
+        "Slide 2",
+        "Slide 3"
+      ],
+      "forms_detected": [
+        {
+          "index": 0,
+          "action": "https://zenrojas.com/search",
+          "method": "get",
+          "labels": [],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search",
+              "text": "Search"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SEARCH AGAIN"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "action": "https://zenrojas.com/cart/add",
+          "method": "post",
+          "labels": [
+            "Organic Black Tea"
+          ],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": null,
+              "text": "product"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": null,
+              "text": "✓"
+            },
+            {
+              "tag": "select",
+              "type": null,
+              "name": "Organic Black Tea",
+              "placeholder": null,
+              "text": "Loose Leaf 100g Full Size - $8"
+            },
+            {
+              "tag": "select",
+              "type": null,
+              "name": "id",
+              "placeholder": null,
+              "text": "Loose Leaf 100g Full Size - $8 - $8.00 USD"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": "add",
+              "placeholder": null,
+              "text": "ADD TO CART"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "product-id",
+              "placeholder": null,
+              "text": "7091512017087"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "section-id",
+              "placeholder": null,
+              "text": "product-template"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "action": "https://zenrojas.com/contact#contact_form",
+          "method": "post",
+          "labels": [
+            "STAY CONNECTED"
+          ],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": null,
+              "text": "customer"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": null,
+              "text": "✓"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "contact[tags]",
+              "placeholder": null,
+              "text": "newsletter"
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "contact[email]",
+              "placeholder": "My email address",
+              "text": "My email address"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SUBSCRIBE"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "action": "https://zenrojas.com/cart",
+          "method": "post",
+          "labels": [
+            "Item Quantity",
+            "Special instructions for seller"
+          ],
+          "inputs": [
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "CLOSE CART"
+            },
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "Remove"
+            },
+            {
+              "tag": "input",
+              "type": "number",
+              "name": null,
+              "placeholder": null,
+              "text": "Item Quantity"
+            },
+            {
+              "tag": "textarea",
+              "type": null,
+              "name": "note",
+              "placeholder": null,
+              "text": null
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": "checkout",
+              "placeholder": null,
+              "text": "CHECKOUT"
+            }
+          ]
+        }
+      ],
+      "product_signals": {
+        "looks_like_product": true,
+        "product_title_present": true,
+        "price_visible": true,
+        "compare_at_or_discount_visible": true,
+        "add_to_cart_visible": true,
+        "buy_button_visible": true,
+        "subscription_option_visible": true,
+        "variant_selector_visible": true,
+        "reviews_or_ratings_visible": true,
+        "shipping_or_returns_visible": true,
+        "stock_or_availability_visible": false,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": true,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": false,
+        "product_grid_visible": true,
+        "filters_visible": false,
+        "sorting_visible": false,
+        "category_copy_visible": true,
+        "product_cards_visible": true,
+        "price_visibility": true,
+        "review_visibility": true,
+        "quick_add_visible": true,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": true,
+        "products_linked": true,
+        "calls_to_action_visible": true,
+        "buying_or_locator_path_visible": true,
+        "appears_stale_empty_broken_or_thin": false
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/pages/privacypolicy"
+      ],
+      "image_count": 15,
+      "images_missing_alt_count": 2,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 602,
+        "load_event_ms": 1378,
+        "response_end_ms": 268
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 6047,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/cdn/shop/products/image_dd8eae0b-2565-4995-b289-7af7b5d54497.jpg",
+      "final_url": "https://zenrojas.com/cdn/shop/products/image_dd8eae0b-2565-4995-b289-7af7b5d54497.jpg",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "image_dd8eae0b-2565-4995-b289-7af7b5d54497.jpg (725×538)",
+      "meta_description": "",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-cdn-shop-products-image_dd8eae0b-2565-4995-b289-7af7b5d54497.jpg-21156a41-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-cdn-shop-products-image_dd8eae0b-2565-4995-b289-7af7b5d54497.jpg-21156a41.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-cdn-shop-products-image_dd8eae0b-2565-4995-b289-7af7b5d54497.jpg-21156a41.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-cdn-shop-products-image_dd8eae0b-2565-4995-b289-7af7b5d54497.jpg-21156a41.json",
+      "internal_links": [],
+      "external_links": [],
+      "cta_button_text": [],
+      "forms_detected": [],
+      "product_signals": {
+        "looks_like_product": true,
+        "product_title_present": false,
+        "price_visible": false,
+        "compare_at_or_discount_visible": false,
+        "add_to_cart_visible": false,
+        "buy_button_visible": false,
+        "subscription_option_visible": false,
+        "variant_selector_visible": false,
+        "reviews_or_ratings_visible": false,
+        "shipping_or_returns_visible": false,
+        "stock_or_availability_visible": false,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": false,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": false,
+        "product_grid_visible": false,
+        "filters_visible": false,
+        "sorting_visible": false,
+        "category_copy_visible": false,
+        "product_cards_visible": false,
+        "price_visibility": false,
+        "review_visibility": false,
+        "quick_add_visible": false,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": false,
+        "products_linked": true,
+        "calls_to_action_visible": false,
+        "buying_or_locator_path_visible": false,
+        "appears_stale_empty_broken_or_thin": true
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [],
+      "image_count": 1,
+      "images_missing_alt_count": 1,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 133,
+        "load_event_ms": 133,
+        "response_end_ms": 133
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 669,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/cdn/shop/products/image_fc6130b9-3c3a-43d3-9641-e7274947d244.heic",
+      "final_url": "https://zenrojas.com/cdn/shop/products/image_fc6130b9-3c3a-43d3-9641-e7274947d244.heic",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "image_fc6130b9-3c3a-43d3-9641-e7274947d244.heic (2917×4032)",
+      "meta_description": "",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-cdn-shop-products-image_fc6130b9-3c3a-43d3-9641-e7274947d244.heic-88e3c510-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-cdn-shop-products-image_fc6130b9-3c3a-43d3-9641-e7274947d244.heic-88e3c510.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-cdn-shop-products-image_fc6130b9-3c3a-43d3-9641-e7274947d244.heic-88e3c510.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-cdn-shop-products-image_fc6130b9-3c3a-43d3-9641-e7274947d244.heic-88e3c510.json",
+      "internal_links": [],
+      "external_links": [],
+      "cta_button_text": [],
+      "forms_detected": [],
+      "product_signals": {
+        "looks_like_product": true,
+        "product_title_present": false,
+        "price_visible": false,
+        "compare_at_or_discount_visible": false,
+        "add_to_cart_visible": false,
+        "buy_button_visible": false,
+        "subscription_option_visible": false,
+        "variant_selector_visible": false,
+        "reviews_or_ratings_visible": false,
+        "shipping_or_returns_visible": false,
+        "stock_or_availability_visible": false,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": false,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": false,
+        "product_grid_visible": false,
+        "filters_visible": false,
+        "sorting_visible": false,
+        "category_copy_visible": false,
+        "product_cards_visible": false,
+        "price_visibility": false,
+        "review_visibility": false,
+        "quick_add_visible": false,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": false,
+        "products_linked": true,
+        "calls_to_action_visible": false,
+        "buying_or_locator_path_visible": false,
+        "appears_stale_empty_broken_or_thin": true
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [],
+      "image_count": 1,
+      "images_missing_alt_count": 1,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 610,
+        "load_event_ms": 611,
+        "response_end_ms": 608
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 1148,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/products/bodyguardtea",
+      "final_url": "https://zenrojas.com/products/bodyguardtea",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "Bodyguard Organic Tea – Zen Rojas",
+      "meta_description": "Fortify Your Wellness, Mindfully Support your immune system and overall well-being with Organic Bodyguard Tea, a carefully crafted blend of organic herbs and botanicals. Naturally caffeinated and ethically sourced, this tea delivers both nourishment and a calming, flavorful experience.",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-products-bodyguardtea-723917e1-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-products-bodyguardtea-723917e1.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-products-bodyguardtea-723917e1.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-products-bodyguardtea-723917e1.json",
+      "internal_links": [
+        "https://zenrojas.com/",
+        "https://zenrojas.com/cdn/shop/products/image_72b7ada2-d563-46bb-ad2e-20ba232dd962.heic",
+        "https://zenrojas.com/cdn/shop/products/image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg",
+        "https://zenrojas.com/products/blacktea",
+        "https://zenrojas.com/products/bodyguardtea",
+        "https://zenrojas.com/products/looseleafsamplers",
+        "https://zenrojas.com/products/tea-bags",
+        "https://zenrojas.com/products/teabagsamplers",
+        "https://zenrojas.com/collections/gift-cards",
+        "https://zenrojas.com/collections/teas",
+        "https://zenrojas.com/collections/teaware",
+        "https://zenrojas.com/cart",
+        "https://zenrojas.com/pages/contactus",
+        "https://zenrojas.com/pages/faqs",
+        "https://zenrojas.com/pages/returnpolicy",
+        "https://zenrojas.com/blogs/weekly-blog",
+        "https://zenrojas.com/pages/aboutus",
+        "https://zenrojas.com/pages/ambassadorprogram",
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/cdn/shop/files/Orange_Modern_Creative_Colorful_Vivid_Business_Marketing_Consultancy_Instagram_Post_-_6.png",
+        "https://zenrojas.com/cdn/shop/files/Price_sheet_1.png",
+        "https://zenrojas.com/customer_authentication/redirect",
+        "https://zenrojas.com/policies/terms-of-service",
+        "https://zenrojas.com/search"
+      ],
+      "external_links": [
+        "https://pinterest.com/pin/create/button/",
+        "https://shopify.com/27573977165/account",
+        "https://twitter.com/ZenRojas0",
+        "https://twitter.com/share",
+        "https://www.facebook.com/sharer.php",
+        "https://www.facebook.com/zenrojas0",
+        "https://www.instagram.com/zen_rojas/",
+        "https://www.shopify.com/"
+      ],
+      "cta_button_text": [
+        "MENU",
+        "PRODUCTS PRODUCTS MENU",
+        "SEARCH AGAIN",
+        "VIEW CART",
+        "ADD TO CART",
+        "More payment options",
+        "SHARE",
+        "Share",
+        "SUBSCRIBE",
+        "CLOSE CART",
+        "Remove",
+        "CHECKOUT",
+        "PREVIOUS",
+        "NEXT",
+        "Slide 1",
+        "Slide 2",
+        "Slide 3",
+        "Slide 4"
+      ],
+      "forms_detected": [
+        {
+          "index": 0,
+          "action": "https://zenrojas.com/search",
+          "method": "get",
+          "labels": [],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search",
+              "text": "Search"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SEARCH AGAIN"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "action": "https://zenrojas.com/cart/add",
+          "method": "post",
+          "labels": [
+            "Bodyguard Organic Tea"
+          ],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": null,
+              "text": "product"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": null,
+              "text": "✓"
+            },
+            {
+              "tag": "select",
+              "type": null,
+              "name": "Bodyguard Organic Tea",
+              "placeholder": null,
+              "text": "Loose Leaf 50g Full Size - $13"
+            },
+            {
+              "tag": "select",
+              "type": null,
+              "name": "id",
+              "placeholder": null,
+              "text": "Loose Leaf 50g Full Size - $13 - $13.00 USD"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": "add",
+              "placeholder": null,
+              "text": "ADD TO CART"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "product-id",
+              "placeholder": null,
+              "text": "6578030543039"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "section-id",
+              "placeholder": null,
+              "text": "product-template"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "action": "https://zenrojas.com/contact#contact_form",
+          "method": "post",
+          "labels": [
+            "STAY CONNECTED"
+          ],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": null,
+              "text": "customer"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": null,
+              "text": "✓"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "contact[tags]",
+              "placeholder": null,
+              "text": "newsletter"
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "contact[email]",
+              "placeholder": "My email address",
+              "text": "My email address"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SUBSCRIBE"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "action": "https://zenrojas.com/cart",
+          "method": "post",
+          "labels": [
+            "Item Quantity",
+            "Special instructions for seller"
+          ],
+          "inputs": [
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "CLOSE CART"
+            },
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "Remove"
+            },
+            {
+              "tag": "input",
+              "type": "number",
+              "name": null,
+              "placeholder": null,
+              "text": "Item Quantity"
+            },
+            {
+              "tag": "textarea",
+              "type": null,
+              "name": "note",
+              "placeholder": null,
+              "text": null
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": "checkout",
+              "placeholder": null,
+              "text": "CHECKOUT"
+            }
+          ]
+        }
+      ],
+      "product_signals": {
+        "looks_like_product": true,
+        "product_title_present": true,
+        "price_visible": true,
+        "compare_at_or_discount_visible": true,
+        "add_to_cart_visible": true,
+        "buy_button_visible": true,
+        "subscription_option_visible": true,
+        "variant_selector_visible": true,
+        "reviews_or_ratings_visible": true,
+        "shipping_or_returns_visible": true,
+        "stock_or_availability_visible": false,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": false,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": false,
+        "product_grid_visible": true,
+        "filters_visible": false,
+        "sorting_visible": false,
+        "category_copy_visible": true,
+        "product_cards_visible": true,
+        "price_visibility": true,
+        "review_visibility": true,
+        "quick_add_visible": true,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": true,
+        "products_linked": true,
+        "calls_to_action_visible": true,
+        "buying_or_locator_path_visible": true,
+        "appears_stale_empty_broken_or_thin": false
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/pages/privacypolicy"
+      ],
+      "image_count": 14,
+      "images_missing_alt_count": 2,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 630,
+        "load_event_ms": 1278,
+        "response_end_ms": 321
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 5505,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/cdn/shop/products/image_72b7ada2-d563-46bb-ad2e-20ba232dd962.heic",
+      "final_url": "https://zenrojas.com/cdn/shop/products/image_72b7ada2-d563-46bb-ad2e-20ba232dd962.heic",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "image_72b7ada2-d563-46bb-ad2e-20ba232dd962.heic (2824×4032)",
+      "meta_description": "",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-cdn-shop-products-image_72b7ada2-d563-46bb-ad2e-20ba232dd962.heic-a6d35e5f-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-cdn-shop-products-image_72b7ada2-d563-46bb-ad2e-20ba232dd962.heic-a6d35e5f.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-cdn-shop-products-image_72b7ada2-d563-46bb-ad2e-20ba232dd962.heic-a6d35e5f.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-cdn-shop-products-image_72b7ada2-d563-46bb-ad2e-20ba232dd962.heic-a6d35e5f.json",
+      "internal_links": [],
+      "external_links": [],
+      "cta_button_text": [],
+      "forms_detected": [],
+      "product_signals": {
+        "looks_like_product": true,
+        "product_title_present": false,
+        "price_visible": false,
+        "compare_at_or_discount_visible": false,
+        "add_to_cart_visible": false,
+        "buy_button_visible": false,
+        "subscription_option_visible": false,
+        "variant_selector_visible": false,
+        "reviews_or_ratings_visible": false,
+        "shipping_or_returns_visible": false,
+        "stock_or_availability_visible": false,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": false,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": false,
+        "product_grid_visible": false,
+        "filters_visible": false,
+        "sorting_visible": false,
+        "category_copy_visible": false,
+        "product_cards_visible": false,
+        "price_visibility": false,
+        "review_visibility": false,
+        "quick_add_visible": false,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": false,
+        "products_linked": true,
+        "calls_to_action_visible": false,
+        "buying_or_locator_path_visible": false,
+        "appears_stale_empty_broken_or_thin": true
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [],
+      "image_count": 1,
+      "images_missing_alt_count": 1,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 275,
+        "load_event_ms": 276,
+        "response_end_ms": 262
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 818,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/cdn/shop/products/image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg",
+      "final_url": "https://zenrojas.com/cdn/shop/products/image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg (1496×1202)",
+      "meta_description": "",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-cdn-shop-products-image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg-9033206d-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-cdn-shop-products-image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg-9033206d.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-cdn-shop-products-image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg-9033206d.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-cdn-shop-products-image_7f0dffec-265a-41fb-9a1d-cfdda9915a22.jpg-9033206d.json",
+      "internal_links": [],
+      "external_links": [],
+      "cta_button_text": [],
+      "forms_detected": [],
+      "product_signals": {
+        "looks_like_product": true,
+        "product_title_present": false,
+        "price_visible": false,
+        "compare_at_or_discount_visible": false,
+        "add_to_cart_visible": false,
+        "buy_button_visible": false,
+        "subscription_option_visible": false,
+        "variant_selector_visible": false,
+        "reviews_or_ratings_visible": false,
+        "shipping_or_returns_visible": false,
+        "stock_or_availability_visible": false,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": false,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": false,
+        "product_grid_visible": false,
+        "filters_visible": false,
+        "sorting_visible": false,
+        "category_copy_visible": false,
+        "product_cards_visible": false,
+        "price_visibility": false,
+        "review_visibility": false,
+        "quick_add_visible": false,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": false,
+        "products_linked": true,
+        "calls_to_action_visible": false,
+        "buying_or_locator_path_visible": false,
+        "appears_stale_empty_broken_or_thin": true
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [],
+      "image_count": 1,
+      "images_missing_alt_count": 1,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 124,
+        "load_event_ms": 124,
+        "response_end_ms": 123
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 666,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/products/looseleafsamplers",
+      "final_url": "https://zenrojas.com/products/looseleafsamplers",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "Zen Rojas Loose Leaf Samplers",
+      "meta_description": "Discover the Essence of Zen Rojas Not sure which Zen Rojas tea will become your favorite? Our convenient sample sizes make it easy to explore our premium blends without the commitment of a full bag. Perfect for discovering new favorites, sharing mindful gifts, or bringing your ritual wherever life takes you.   What's I",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-products-looseleafsamplers-77cadb8c-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-products-looseleafsamplers-77cadb8c.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-products-looseleafsamplers-77cadb8c.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-products-looseleafsamplers-77cadb8c.json",
+      "internal_links": [
+        "https://zenrojas.com/",
+        "https://zenrojas.com/products/blacktea",
+        "https://zenrojas.com/products/bodyguardtea",
+        "https://zenrojas.com/products/looseleafsamplers",
+        "https://zenrojas.com/products/tea-bags",
+        "https://zenrojas.com/products/teabagsamplers",
+        "https://zenrojas.com/collections/gift-cards",
+        "https://zenrojas.com/collections/teas",
+        "https://zenrojas.com/collections/teaware",
+        "https://zenrojas.com/cart",
+        "https://zenrojas.com/pages/contactus",
+        "https://zenrojas.com/pages/faqs",
+        "https://zenrojas.com/pages/returnpolicy",
+        "https://zenrojas.com/blogs/weekly-blog",
+        "https://zenrojas.com/pages/aboutus",
+        "https://zenrojas.com/pages/ambassadorprogram",
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/cdn/shop/files/IMG_1031_1.jpg",
+        "https://zenrojas.com/cdn/shop/files/Price_sheet_1.png",
+        "https://zenrojas.com/customer_authentication/redirect",
+        "https://zenrojas.com/policies/terms-of-service",
+        "https://zenrojas.com/search"
+      ],
+      "external_links": [
+        "https://pinterest.com/pin/create/button/",
+        "https://shopify.com/27573977165/account",
+        "https://twitter.com/ZenRojas0",
+        "https://twitter.com/share",
+        "https://www.facebook.com/sharer.php",
+        "https://www.facebook.com/zenrojas0",
+        "https://www.instagram.com/zen_rojas/",
+        "https://www.shopify.com/"
+      ],
+      "cta_button_text": [
+        "MENU",
+        "PRODUCTS PRODUCTS MENU",
+        "SEARCH AGAIN",
+        "VIEW CART",
+        "ADD TO CART",
+        "More payment options",
+        "SHARE",
+        "Share",
+        "SUBSCRIBE",
+        "CLOSE CART",
+        "Remove",
+        "CHECKOUT",
+        "PREVIOUS",
+        "NEXT",
+        "Slide 1",
+        "Slide 2"
+      ],
+      "forms_detected": [
+        {
+          "index": 0,
+          "action": "https://zenrojas.com/search",
+          "method": "get",
+          "labels": [],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search",
+              "text": "Search"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SEARCH AGAIN"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "action": "https://zenrojas.com/cart/add",
+          "method": "post",
+          "labels": [
+            "Blend"
+          ],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": null,
+              "text": "product"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": null,
+              "text": "✓"
+            },
+            {
+              "tag": "select",
+              "type": null,
+              "name": "Blend",
+              "placeholder": null,
+              "text": "Premium Sencha Organic Tea Organic Sleep Tea Organic Heartburn Tea Unwind Organic Tea Organic Black Tea Bodyguard Organic Tea Loose Leaf Sampler Set"
+            },
+            {
+              "tag": "select",
+              "type": null,
+              "name": "id",
+              "placeholder": null,
+              "text": "Premium Sencha Organic Tea - $2.00 USD Organic Sleep Tea - $2.00 USD Organic Heartburn Tea - $2.00 USD Unwind Organic Tea - $2.00 USD Organic Black Tea - $2.00 USD Bodyguard Organic Tea - Sold Out Loose Leaf Sampler Set - $10.00 USD"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": "add",
+              "placeholder": null,
+              "text": "ADD TO CART"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "product-id",
+              "placeholder": null,
+              "text": "8236240175295"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "section-id",
+              "placeholder": null,
+              "text": "product-template"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "action": "https://zenrojas.com/contact#contact_form",
+          "method": "post",
+          "labels": [
+            "STAY CONNECTED"
+          ],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": null,
+              "text": "customer"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": null,
+              "text": "✓"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "contact[tags]",
+              "placeholder": null,
+              "text": "newsletter"
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "contact[email]",
+              "placeholder": "My email address",
+              "text": "My email address"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SUBSCRIBE"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "action": "https://zenrojas.com/cart",
+          "method": "post",
+          "labels": [
+            "Item Quantity",
+            "Special instructions for seller"
+          ],
+          "inputs": [
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "CLOSE CART"
+            },
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "Remove"
+            },
+            {
+              "tag": "input",
+              "type": "number",
+              "name": null,
+              "placeholder": null,
+              "text": "Item Quantity"
+            },
+            {
+              "tag": "textarea",
+              "type": null,
+              "name": "note",
+              "placeholder": null,
+              "text": null
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": "checkout",
+              "placeholder": null,
+              "text": "CHECKOUT"
+            }
+          ]
+        }
+      ],
+      "product_signals": {
+        "looks_like_product": true,
+        "product_title_present": true,
+        "price_visible": true,
+        "compare_at_or_discount_visible": true,
+        "add_to_cart_visible": true,
+        "buy_button_visible": true,
+        "subscription_option_visible": true,
+        "variant_selector_visible": true,
+        "reviews_or_ratings_visible": false,
+        "shipping_or_returns_visible": true,
+        "stock_or_availability_visible": true,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": false,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": false,
+        "product_grid_visible": true,
+        "filters_visible": false,
+        "sorting_visible": false,
+        "category_copy_visible": true,
+        "product_cards_visible": true,
+        "price_visibility": true,
+        "review_visibility": false,
+        "quick_add_visible": true,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": true,
+        "products_linked": true,
+        "calls_to_action_visible": true,
+        "buying_or_locator_path_visible": true,
+        "appears_stale_empty_broken_or_thin": false
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/pages/privacypolicy"
+      ],
+      "image_count": 10,
+      "images_missing_alt_count": 1,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 583,
+        "load_event_ms": 1513,
+        "response_end_ms": 235
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 5821,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/products/organicsleeptea",
+      "final_url": "https://zenrojas.com/products/organicsleeptea",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "Organic Sleep Tea – Zen Rojas",
+      "meta_description": "Drift Into Restful Nights Sip, relax, and let go. Our Organic Sleep Tea combines chamomile, lemon balm, passionflower, lavender, and skullcap to support peaceful, restorative sleep.",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-products-organicsleeptea-93485e52-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-products-organicsleeptea-93485e52.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-products-organicsleeptea-93485e52.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-products-organicsleeptea-93485e52.json",
+      "internal_links": [
+        "https://zenrojas.com/",
+        "https://zenrojas.com/cdn/shop/products/image_67f8498a-d9d0-4ee6-8140-bd9e94593c12.jpg",
+        "https://zenrojas.com/cdn/shop/products/image_a97e5d07-c216-4d3b-afdd-ad5db4b6dd9e.heic",
+        "https://zenrojas.com/products/blacktea",
+        "https://zenrojas.com/products/bodyguardtea",
+        "https://zenrojas.com/products/looseleafsamplers",
+        "https://zenrojas.com/products/organicsleeptea",
+        "https://zenrojas.com/products/teabagsamplers",
+        "https://zenrojas.com/collections/gift-cards",
+        "https://zenrojas.com/collections/teas",
+        "https://zenrojas.com/collections/teaware",
+        "https://zenrojas.com/cart",
+        "https://zenrojas.com/pages/contactus",
+        "https://zenrojas.com/pages/faqs",
+        "https://zenrojas.com/pages/returnpolicy",
+        "https://zenrojas.com/blogs/weekly-blog",
+        "https://zenrojas.com/pages/aboutus",
+        "https://zenrojas.com/pages/ambassadorprogram",
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/cdn/shop/files/Orange_Modern_Creative_Colorful_Vivid_Business_Marketing_Consultancy_Instagram_Post_-_2.png",
+        "https://zenrojas.com/cdn/shop/files/Price_sheet_1.png",
+        "https://zenrojas.com/customer_authentication/redirect",
+        "https://zenrojas.com/policies/terms-of-service",
+        "https://zenrojas.com/search"
+      ],
+      "external_links": [
+        "https://pinterest.com/pin/create/button/",
+        "https://shopify.com/27573977165/account",
+        "https://twitter.com/ZenRojas0",
+        "https://twitter.com/share",
+        "https://www.facebook.com/sharer.php",
+        "https://www.facebook.com/zenrojas0",
+        "https://www.instagram.com/zen_rojas/",
+        "https://www.shopify.com/"
+      ],
+      "cta_button_text": [
+        "MENU",
+        "PRODUCTS PRODUCTS MENU",
+        "SEARCH AGAIN",
+        "VIEW CART",
+        "SOLD OUT",
+        "SHARE",
+        "Share",
+        "SUBSCRIBE",
+        "CLOSE CART",
+        "Remove",
+        "CHECKOUT",
+        "PREVIOUS",
+        "NEXT",
+        "Slide 1",
+        "Slide 2",
+        "Slide 3",
+        "Slide 4"
+      ],
+      "forms_detected": [
+        {
+          "index": 0,
+          "action": "https://zenrojas.com/search",
+          "method": "get",
+          "labels": [],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search",
+              "text": "Search"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SEARCH AGAIN"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "action": "https://zenrojas.com/cart/add",
+          "method": "post",
+          "labels": [
+            "Organic Sleep Tea"
+          ],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": null,
+              "text": "product"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": null,
+              "text": "✓"
+            },
+            {
+              "tag": "select",
+              "type": null,
+              "name": "Organic Sleep Tea",
+              "placeholder": null,
+              "text": "Loose Leaf 40g Full Size - $12"
+            },
+            {
+              "tag": "select",
+              "type": null,
+              "name": "id",
+              "placeholder": null,
+              "text": "Loose Leaf 40g Full Size - $12 - Sold Out"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": "add",
+              "placeholder": null,
+              "text": "SOLD OUT"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "product-id",
+              "placeholder": null,
+              "text": "7164522889407"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "section-id",
+              "placeholder": null,
+              "text": "product-template"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "action": "https://zenrojas.com/contact#contact_form",
+          "method": "post",
+          "labels": [
+            "STAY CONNECTED"
+          ],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": null,
+              "text": "customer"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": null,
+              "text": "✓"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "contact[tags]",
+              "placeholder": null,
+              "text": "newsletter"
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "contact[email]",
+              "placeholder": "My email address",
+              "text": "My email address"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SUBSCRIBE"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "action": "https://zenrojas.com/cart",
+          "method": "post",
+          "labels": [
+            "Item Quantity",
+            "Special instructions for seller"
+          ],
+          "inputs": [
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "CLOSE CART"
+            },
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "Remove"
+            },
+            {
+              "tag": "input",
+              "type": "number",
+              "name": null,
+              "placeholder": null,
+              "text": "Item Quantity"
+            },
+            {
+              "tag": "textarea",
+              "type": null,
+              "name": "note",
+              "placeholder": null,
+              "text": null
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": "checkout",
+              "placeholder": null,
+              "text": "CHECKOUT"
+            }
+          ]
+        }
+      ],
+      "product_signals": {
+        "looks_like_product": true,
+        "product_title_present": true,
+        "price_visible": true,
+        "compare_at_or_discount_visible": true,
+        "add_to_cart_visible": false,
+        "buy_button_visible": true,
+        "subscription_option_visible": true,
+        "variant_selector_visible": true,
+        "reviews_or_ratings_visible": false,
+        "shipping_or_returns_visible": true,
+        "stock_or_availability_visible": true,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": false,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": false,
+        "product_grid_visible": true,
+        "filters_visible": false,
+        "sorting_visible": false,
+        "category_copy_visible": true,
+        "product_cards_visible": true,
+        "price_visibility": true,
+        "review_visibility": false,
+        "quick_add_visible": false,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": true,
+        "products_linked": true,
+        "calls_to_action_visible": true,
+        "buying_or_locator_path_visible": false,
+        "appears_stale_empty_broken_or_thin": false
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/pages/privacypolicy"
+      ],
+      "image_count": 14,
+      "images_missing_alt_count": 1,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 479,
+        "load_event_ms": 1132,
+        "response_end_ms": 177
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 5419,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/cdn/shop/products/image_67f8498a-d9d0-4ee6-8140-bd9e94593c12.jpg",
+      "final_url": "https://zenrojas.com/cdn/shop/products/image_67f8498a-d9d0-4ee6-8140-bd9e94593c12.jpg",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "image_67f8498a-d9d0-4ee6-8140-bd9e94593c12.jpg (2448×2260)",
+      "meta_description": "",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-cdn-shop-products-image_67f8498a-d9d0-4ee6-8140-bd9e94593c12.jpg-4fbe776d-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-cdn-shop-products-image_67f8498a-d9d0-4ee6-8140-bd9e94593c12.jpg-4fbe776d.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-cdn-shop-products-image_67f8498a-d9d0-4ee6-8140-bd9e94593c12.jpg-4fbe776d.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-cdn-shop-products-image_67f8498a-d9d0-4ee6-8140-bd9e94593c12.jpg-4fbe776d.json",
+      "internal_links": [],
+      "external_links": [],
+      "cta_button_text": [],
+      "forms_detected": [],
+      "product_signals": {
+        "looks_like_product": true,
+        "product_title_present": false,
+        "price_visible": false,
+        "compare_at_or_discount_visible": false,
+        "add_to_cart_visible": false,
+        "buy_button_visible": false,
+        "subscription_option_visible": false,
+        "variant_selector_visible": false,
+        "reviews_or_ratings_visible": false,
+        "shipping_or_returns_visible": false,
+        "stock_or_availability_visible": false,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": false,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": false,
+        "product_grid_visible": false,
+        "filters_visible": false,
+        "sorting_visible": false,
+        "category_copy_visible": false,
+        "product_cards_visible": false,
+        "price_visibility": false,
+        "review_visibility": false,
+        "quick_add_visible": false,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": false,
+        "products_linked": true,
+        "calls_to_action_visible": false,
+        "buying_or_locator_path_visible": false,
+        "appears_stale_empty_broken_or_thin": true
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [],
+      "image_count": 1,
+      "images_missing_alt_count": 1,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 159,
+        "load_event_ms": 159,
+        "response_end_ms": 158
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 692,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/cdn/shop/products/image_a97e5d07-c216-4d3b-afdd-ad5db4b6dd9e.heic",
+      "final_url": "https://zenrojas.com/cdn/shop/products/image_a97e5d07-c216-4d3b-afdd-ad5db4b6dd9e.heic",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "image_a97e5d07-c216-4d3b-afdd-ad5db4b6dd9e.heic (3024×4032)",
+      "meta_description": "",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-cdn-shop-products-image_a97e5d07-c216-4d3b-afdd-ad5db4b6dd9e.heic-18d6c3b3-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-cdn-shop-products-image_a97e5d07-c216-4d3b-afdd-ad5db4b6dd9e.heic-18d6c3b3.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-cdn-shop-products-image_a97e5d07-c216-4d3b-afdd-ad5db4b6dd9e.heic-18d6c3b3.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-cdn-shop-products-image_a97e5d07-c216-4d3b-afdd-ad5db4b6dd9e.heic-18d6c3b3.json",
+      "internal_links": [],
+      "external_links": [],
+      "cta_button_text": [],
+      "forms_detected": [],
+      "product_signals": {
+        "looks_like_product": true,
+        "product_title_present": false,
+        "price_visible": false,
+        "compare_at_or_discount_visible": false,
+        "add_to_cart_visible": false,
+        "buy_button_visible": false,
+        "subscription_option_visible": false,
+        "variant_selector_visible": false,
+        "reviews_or_ratings_visible": false,
+        "shipping_or_returns_visible": false,
+        "stock_or_availability_visible": false,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": false,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": false,
+        "product_grid_visible": false,
+        "filters_visible": false,
+        "sorting_visible": false,
+        "category_copy_visible": false,
+        "product_cards_visible": false,
+        "price_visibility": false,
+        "review_visibility": false,
+        "quick_add_visible": false,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": false,
+        "products_linked": true,
+        "calls_to_action_visible": false,
+        "buying_or_locator_path_visible": false,
+        "appears_stale_empty_broken_or_thin": true
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [],
+      "image_count": 1,
+      "images_missing_alt_count": 1,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 442,
+        "load_event_ms": 442,
+        "response_end_ms": 440
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 980,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/products/tea-bags",
+      "final_url": "https://zenrojas.com/products/tea-bags",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "Tea Bags – Zen Rojas",
+      "meta_description": "Your Perfect Brew, Made Simple Zen Rojas Tea Bags are designed to be simple, accessible, and enjoyable. These easy-to-use tea bags allow you to fill your own loose leaf blends, giving you full control over strength, flavor, and personal preference without the mess or complexity often associated with loose leaf brewing.",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-products-tea-bags-6ae5d454-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-products-tea-bags-6ae5d454.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-products-tea-bags-6ae5d454.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-products-tea-bags-6ae5d454.json",
+      "internal_links": [
+        "https://zenrojas.com/",
+        "https://zenrojas.com/cdn/shop/products/image_3d0a9d28-1690-4632-9a29-784fe209c828.heic",
+        "https://zenrojas.com/products/blacktea",
+        "https://zenrojas.com/products/looseleafsamplers",
+        "https://zenrojas.com/products/tea-bags",
+        "https://zenrojas.com/products/tea-seeper",
+        "https://zenrojas.com/products/teabagsamplers",
+        "https://zenrojas.com/collections/gift-cards",
+        "https://zenrojas.com/collections/teas",
+        "https://zenrojas.com/collections/teaware",
+        "https://zenrojas.com/cart",
+        "https://zenrojas.com/pages/contactus",
+        "https://zenrojas.com/pages/faqs",
+        "https://zenrojas.com/pages/returnpolicy",
+        "https://zenrojas.com/blogs/weekly-blog",
+        "https://zenrojas.com/pages/aboutus",
+        "https://zenrojas.com/pages/ambassadorprogram",
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/customer_authentication/redirect",
+        "https://zenrojas.com/policies/terms-of-service",
+        "https://zenrojas.com/search"
+      ],
+      "external_links": [
+        "https://pinterest.com/pin/create/button/",
+        "https://shopify.com/27573977165/account",
+        "https://twitter.com/ZenRojas0",
+        "https://twitter.com/share",
+        "https://www.facebook.com/sharer.php",
+        "https://www.facebook.com/zenrojas0",
+        "https://www.instagram.com/zen_rojas/",
+        "https://www.shopify.com/"
+      ],
+      "cta_button_text": [
+        "MENU",
+        "PRODUCTS PRODUCTS MENU",
+        "SEARCH AGAIN",
+        "VIEW CART",
+        "ADD TO CART",
+        "More payment options",
+        "Add bundle to cart",
+        "SHARE",
+        "Share",
+        "SUBSCRIBE",
+        "CLOSE CART",
+        "Remove",
+        "CHECKOUT"
+      ],
+      "forms_detected": [
+        {
+          "index": 0,
+          "action": "https://zenrojas.com/search",
+          "method": "get",
+          "labels": [],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search",
+              "text": "Search"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SEARCH AGAIN"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "action": "https://zenrojas.com/cart/add",
+          "method": "post",
+          "labels": [],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": null,
+              "text": "product"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": null,
+              "text": "✓"
+            },
+            {
+              "tag": "select",
+              "type": null,
+              "name": "id",
+              "placeholder": null,
+              "text": "Default Title - $5.00 USD"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": "add",
+              "placeholder": null,
+              "text": "ADD TO CART"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "product-id",
+              "placeholder": null,
+              "text": "7403933597887"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "section-id",
+              "placeholder": null,
+              "text": "product-template"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "action": "https://zenrojas.com/contact#contact_form",
+          "method": "post",
+          "labels": [
+            "STAY CONNECTED"
+          ],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": null,
+              "text": "customer"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": null,
+              "text": "✓"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "contact[tags]",
+              "placeholder": null,
+              "text": "newsletter"
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "contact[email]",
+              "placeholder": "My email address",
+              "text": "My email address"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SUBSCRIBE"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "action": "https://zenrojas.com/cart",
+          "method": "post",
+          "labels": [
+            "Item Quantity",
+            "Special instructions for seller"
+          ],
+          "inputs": [
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "CLOSE CART"
+            },
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "Remove"
+            },
+            {
+              "tag": "input",
+              "type": "number",
+              "name": null,
+              "placeholder": null,
+              "text": "Item Quantity"
+            },
+            {
+              "tag": "textarea",
+              "type": null,
+              "name": "note",
+              "placeholder": null,
+              "text": null
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": "checkout",
+              "placeholder": null,
+              "text": "CHECKOUT"
+            }
+          ]
+        }
+      ],
+      "product_signals": {
+        "looks_like_product": true,
+        "product_title_present": true,
+        "price_visible": true,
+        "compare_at_or_discount_visible": true,
+        "add_to_cart_visible": true,
+        "buy_button_visible": true,
+        "subscription_option_visible": true,
+        "variant_selector_visible": true,
+        "reviews_or_ratings_visible": false,
+        "shipping_or_returns_visible": true,
+        "stock_or_availability_visible": false,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": true,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": false,
+        "product_grid_visible": true,
+        "filters_visible": false,
+        "sorting_visible": false,
+        "category_copy_visible": true,
+        "product_cards_visible": true,
+        "price_visibility": true,
+        "review_visibility": false,
+        "quick_add_visible": true,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": true,
+        "products_linked": true,
+        "calls_to_action_visible": true,
+        "buying_or_locator_path_visible": true,
+        "appears_stale_empty_broken_or_thin": false
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/pages/privacypolicy"
+      ],
+      "image_count": 10,
+      "images_missing_alt_count": 1,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 627,
+        "load_event_ms": 1269,
+        "response_end_ms": 267
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 5606,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    },
+    {
+      "surface_type": "product",
+      "url": "https://zenrojas.com/cdn/shop/products/image_3d0a9d28-1690-4632-9a29-784fe209c828.heic",
+      "final_url": "https://zenrojas.com/cdn/shop/products/image_3d0a9d28-1690-4632-9a29-784fe209c828.heic",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "image_3d0a9d28-1690-4632-9a29-784fe209c828.heic (2792×3256)",
+      "meta_description": "",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-cdn-shop-products-image_3d0a9d28-1690-4632-9a29-784fe209c828.heic-32618292-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-cdn-shop-products-image_3d0a9d28-1690-4632-9a29-784fe209c828.heic-32618292.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-cdn-shop-products-image_3d0a9d28-1690-4632-9a29-784fe209c828.heic-32618292.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-cdn-shop-products-image_3d0a9d28-1690-4632-9a29-784fe209c828.heic-32618292.json",
+      "internal_links": [],
+      "external_links": [],
+      "cta_button_text": [],
+      "forms_detected": [],
+      "product_signals": {
+        "looks_like_product": true,
+        "product_title_present": false,
+        "price_visible": false,
+        "compare_at_or_discount_visible": false,
+        "add_to_cart_visible": false,
+        "buy_button_visible": false,
+        "subscription_option_visible": false,
+        "variant_selector_visible": false,
+        "reviews_or_ratings_visible": false,
+        "shipping_or_returns_visible": false,
+        "stock_or_availability_visible": false,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": false,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": false,
+        "product_grid_visible": false,
+        "filters_visible": false,
+        "sorting_visible": false,
+        "category_copy_visible": false,
+        "product_cards_visible": false,
+        "price_visibility": false,
+        "review_visibility": false,
+        "quick_add_visible": false,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": false,
+        "products_linked": true,
+        "calls_to_action_visible": false,
+        "buying_or_locator_path_visible": false,
+        "appears_stale_empty_broken_or_thin": true
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [],
+      "image_count": 1,
+      "images_missing_alt_count": 1,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 250,
+        "load_event_ms": 251,
+        "response_end_ms": 250
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 787,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    },
+    {
+      "surface_type": "collection",
+      "url": "https://zenrojas.com/collections/best-sellers",
+      "final_url": "https://zenrojas.com/collections/best-sellers",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "Best Sellers – Zen Rojas",
+      "meta_description": "",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-collections-best-sellers-9651b7f5-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-collections-best-sellers-9651b7f5.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-collections-best-sellers-9651b7f5.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-collections-best-sellers-9651b7f5.json",
+      "internal_links": [
+        "https://zenrojas.com/",
+        "https://zenrojas.com/products/blacktea",
+        "https://zenrojas.com/products/bodyguardtea",
+        "https://zenrojas.com/products/looseleafsamplers",
+        "https://zenrojas.com/products/teabagsamplers",
+        "https://zenrojas.com/collections/best-sellers",
+        "https://zenrojas.com/collections/gift-cards",
+        "https://zenrojas.com/collections/teas",
+        "https://zenrojas.com/collections/teaware",
+        "https://zenrojas.com/cart",
+        "https://zenrojas.com/pages/contactus",
+        "https://zenrojas.com/pages/faqs",
+        "https://zenrojas.com/pages/returnpolicy",
+        "https://zenrojas.com/blogs/weekly-blog",
+        "https://zenrojas.com/pages/aboutus",
+        "https://zenrojas.com/pages/ambassadorprogram",
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/customer_authentication/redirect",
+        "https://zenrojas.com/policies/terms-of-service",
+        "https://zenrojas.com/search"
+      ],
+      "external_links": [
+        "https://shopify.com/27573977165/account",
+        "https://twitter.com/ZenRojas0",
+        "https://www.facebook.com/zenrojas0",
+        "https://www.instagram.com/zen_rojas/",
+        "https://www.shopify.com/"
+      ],
+      "cta_button_text": [
+        "MENU",
+        "PRODUCTS PRODUCTS MENU",
+        "SEARCH AGAIN",
+        "VIEW CART",
+        "SUBSCRIBE",
+        "CLOSE CART",
+        "Remove",
+        "CHECKOUT"
+      ],
+      "forms_detected": [
+        {
+          "index": 0,
+          "action": "https://zenrojas.com/search",
+          "method": "get",
+          "labels": [],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search",
+              "text": "Search"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SEARCH AGAIN"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "action": "https://zenrojas.com/contact#contact_form",
+          "method": "post",
+          "labels": [
+            "STAY CONNECTED"
+          ],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": null,
+              "text": "customer"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": null,
+              "text": "✓"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "contact[tags]",
+              "placeholder": null,
+              "text": "newsletter"
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "contact[email]",
+              "placeholder": "My email address",
+              "text": "My email address"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SUBSCRIBE"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "action": "https://zenrojas.com/cart",
+          "method": "post",
+          "labels": [
+            "Item Quantity",
+            "Special instructions for seller"
+          ],
+          "inputs": [
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "CLOSE CART"
+            },
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "Remove"
+            },
+            {
+              "tag": "input",
+              "type": "number",
+              "name": null,
+              "placeholder": null,
+              "text": "Item Quantity"
+            },
+            {
+              "tag": "textarea",
+              "type": null,
+              "name": "note",
+              "placeholder": null,
+              "text": null
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": "checkout",
+              "placeholder": null,
+              "text": "CHECKOUT"
+            }
+          ]
+        }
+      ],
+      "product_signals": {
+        "looks_like_product": false,
+        "product_title_present": true,
+        "price_visible": true,
+        "compare_at_or_discount_visible": true,
+        "add_to_cart_visible": false,
+        "buy_button_visible": true,
+        "subscription_option_visible": true,
+        "variant_selector_visible": false,
+        "reviews_or_ratings_visible": false,
+        "shipping_or_returns_visible": true,
+        "stock_or_availability_visible": false,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": false,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": true,
+        "product_grid_visible": true,
+        "filters_visible": false,
+        "sorting_visible": true,
+        "category_copy_visible": true,
+        "product_cards_visible": true,
+        "price_visibility": true,
+        "review_visibility": false,
+        "quick_add_visible": false,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": true,
+        "products_linked": true,
+        "calls_to_action_visible": true,
+        "buying_or_locator_path_visible": false,
+        "appears_stale_empty_broken_or_thin": false
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/pages/privacypolicy"
+      ],
+      "image_count": 5,
+      "images_missing_alt_count": 1,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 505,
+        "load_event_ms": 1190,
+        "response_end_ms": 205
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 5535,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    },
+    {
+      "surface_type": "collection",
+      "url": "https://zenrojas.com/collections/gift-cards",
+      "final_url": "https://zenrojas.com/collections/gift-cards",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "Gift Cards – Zen Rojas",
+      "meta_description": "",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-collections-gift-cards-607a0320-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-collections-gift-cards-607a0320.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-collections-gift-cards-607a0320.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-collections-gift-cards-607a0320.json",
+      "internal_links": [
+        "https://zenrojas.com/",
+        "https://zenrojas.com/products/zen-rojas-e-giftcard",
+        "https://zenrojas.com/collections/gift-cards",
+        "https://zenrojas.com/collections/teas",
+        "https://zenrojas.com/collections/teaware",
+        "https://zenrojas.com/cart",
+        "https://zenrojas.com/pages/contactus",
+        "https://zenrojas.com/pages/faqs",
+        "https://zenrojas.com/pages/returnpolicy",
+        "https://zenrojas.com/blogs/weekly-blog",
+        "https://zenrojas.com/pages/aboutus",
+        "https://zenrojas.com/pages/ambassadorprogram",
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/customer_authentication/redirect",
+        "https://zenrojas.com/policies/terms-of-service",
+        "https://zenrojas.com/search"
+      ],
+      "external_links": [
+        "https://shopify.com/27573977165/account",
+        "https://twitter.com/ZenRojas0",
+        "https://www.facebook.com/zenrojas0",
+        "https://www.instagram.com/zen_rojas/",
+        "https://www.shopify.com/"
+      ],
+      "cta_button_text": [
+        "MENU",
+        "PRODUCTS PRODUCTS MENU",
+        "SEARCH AGAIN",
+        "VIEW CART",
+        "SUBSCRIBE",
+        "CLOSE CART",
+        "Remove",
+        "CHECKOUT"
+      ],
+      "forms_detected": [
+        {
+          "index": 0,
+          "action": "https://zenrojas.com/search",
+          "method": "get",
+          "labels": [],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search",
+              "text": "Search"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SEARCH AGAIN"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "action": "https://zenrojas.com/contact#contact_form",
+          "method": "post",
+          "labels": [
+            "STAY CONNECTED"
+          ],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": null,
+              "text": "customer"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": null,
+              "text": "✓"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "contact[tags]",
+              "placeholder": null,
+              "text": "newsletter"
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "contact[email]",
+              "placeholder": "My email address",
+              "text": "My email address"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SUBSCRIBE"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "action": "https://zenrojas.com/cart",
+          "method": "post",
+          "labels": [
+            "Item Quantity",
+            "Special instructions for seller"
+          ],
+          "inputs": [
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "CLOSE CART"
+            },
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "Remove"
+            },
+            {
+              "tag": "input",
+              "type": "number",
+              "name": null,
+              "placeholder": null,
+              "text": "Item Quantity"
+            },
+            {
+              "tag": "textarea",
+              "type": null,
+              "name": "note",
+              "placeholder": null,
+              "text": null
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": "checkout",
+              "placeholder": null,
+              "text": "CHECKOUT"
+            }
+          ]
+        }
+      ],
+      "product_signals": {
+        "looks_like_product": false,
+        "product_title_present": true,
+        "price_visible": true,
+        "compare_at_or_discount_visible": true,
+        "add_to_cart_visible": false,
+        "buy_button_visible": true,
+        "subscription_option_visible": true,
+        "variant_selector_visible": false,
+        "reviews_or_ratings_visible": false,
+        "shipping_or_returns_visible": true,
+        "stock_or_availability_visible": false,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": false,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": true,
+        "product_grid_visible": true,
+        "filters_visible": false,
+        "sorting_visible": true,
+        "category_copy_visible": true,
+        "product_cards_visible": true,
+        "price_visibility": true,
+        "review_visibility": false,
+        "quick_add_visible": false,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": true,
+        "products_linked": true,
+        "calls_to_action_visible": true,
+        "buying_or_locator_path_visible": false,
+        "appears_stale_empty_broken_or_thin": false
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/pages/privacypolicy"
+      ],
+      "image_count": 2,
+      "images_missing_alt_count": 1,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 546,
+        "load_event_ms": 1181,
+        "response_end_ms": 334
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 5541,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    },
+    {
+      "surface_type": "collection",
+      "url": "https://zenrojas.com/collections/tea-essentials",
+      "final_url": "https://zenrojas.com/collections/tea-essentials",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "Tea Essentials – Zen Rojas",
+      "meta_description": "",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-collections-tea-essentials-8c22f172-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-collections-tea-essentials-8c22f172.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-collections-tea-essentials-8c22f172.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-collections-tea-essentials-8c22f172.json",
+      "internal_links": [
+        "https://zenrojas.com/",
+        "https://zenrojas.com/products/tea-bags",
+        "https://zenrojas.com/products/tea-seeper",
+        "https://zenrojas.com/products/zen-rojas-mug",
+        "https://zenrojas.com/collections/gift-cards",
+        "https://zenrojas.com/collections/tea-essentials",
+        "https://zenrojas.com/collections/teas",
+        "https://zenrojas.com/collections/teaware",
+        "https://zenrojas.com/cart",
+        "https://zenrojas.com/pages/contactus",
+        "https://zenrojas.com/pages/faqs",
+        "https://zenrojas.com/pages/returnpolicy",
+        "https://zenrojas.com/blogs/weekly-blog",
+        "https://zenrojas.com/pages/aboutus",
+        "https://zenrojas.com/pages/ambassadorprogram",
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/customer_authentication/redirect",
+        "https://zenrojas.com/policies/terms-of-service",
+        "https://zenrojas.com/search"
+      ],
+      "external_links": [
+        "https://shopify.com/27573977165/account",
+        "https://twitter.com/ZenRojas0",
+        "https://www.facebook.com/zenrojas0",
+        "https://www.instagram.com/zen_rojas/",
+        "https://www.shopify.com/"
+      ],
+      "cta_button_text": [
+        "MENU",
+        "PRODUCTS PRODUCTS MENU",
+        "SEARCH AGAIN",
+        "VIEW CART",
+        "SUBSCRIBE",
+        "CLOSE CART",
+        "Remove",
+        "CHECKOUT"
+      ],
+      "forms_detected": [
+        {
+          "index": 0,
+          "action": "https://zenrojas.com/search",
+          "method": "get",
+          "labels": [],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search",
+              "text": "Search"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SEARCH AGAIN"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "action": "https://zenrojas.com/contact#contact_form",
+          "method": "post",
+          "labels": [
+            "STAY CONNECTED"
+          ],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": null,
+              "text": "customer"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": null,
+              "text": "✓"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "contact[tags]",
+              "placeholder": null,
+              "text": "newsletter"
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "contact[email]",
+              "placeholder": "My email address",
+              "text": "My email address"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SUBSCRIBE"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "action": "https://zenrojas.com/cart",
+          "method": "post",
+          "labels": [
+            "Item Quantity",
+            "Special instructions for seller"
+          ],
+          "inputs": [
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "CLOSE CART"
+            },
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "Remove"
+            },
+            {
+              "tag": "input",
+              "type": "number",
+              "name": null,
+              "placeholder": null,
+              "text": "Item Quantity"
+            },
+            {
+              "tag": "textarea",
+              "type": null,
+              "name": "note",
+              "placeholder": null,
+              "text": null
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": "checkout",
+              "placeholder": null,
+              "text": "CHECKOUT"
+            }
+          ]
+        }
+      ],
+      "product_signals": {
+        "looks_like_product": false,
+        "product_title_present": true,
+        "price_visible": true,
+        "compare_at_or_discount_visible": true,
+        "add_to_cart_visible": false,
+        "buy_button_visible": true,
+        "subscription_option_visible": true,
+        "variant_selector_visible": false,
+        "reviews_or_ratings_visible": false,
+        "shipping_or_returns_visible": true,
+        "stock_or_availability_visible": false,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": false,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": true,
+        "product_grid_visible": true,
+        "filters_visible": false,
+        "sorting_visible": true,
+        "category_copy_visible": true,
+        "product_cards_visible": true,
+        "price_visibility": true,
+        "review_visibility": false,
+        "quick_add_visible": false,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": true,
+        "products_linked": true,
+        "calls_to_action_visible": true,
+        "buying_or_locator_path_visible": false,
+        "appears_stale_empty_broken_or_thin": false
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/pages/privacypolicy"
+      ],
+      "image_count": 4,
+      "images_missing_alt_count": 2,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 494,
+        "load_event_ms": 1113,
+        "response_end_ms": 210
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 5530,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    },
+    {
+      "surface_type": "cart",
+      "url": "https://zenrojas.com/cart",
+      "final_url": "https://zenrojas.com/cart",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "Your Shopping Cart – Zen Rojas",
+      "meta_description": "",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-cart-1742a2f2-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-cart-1742a2f2.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-cart-1742a2f2.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-cart-1742a2f2.json",
+      "internal_links": [
+        "https://zenrojas.com/",
+        "https://zenrojas.com/collections/all",
+        "https://zenrojas.com/collections/gift-cards",
+        "https://zenrojas.com/collections/teas",
+        "https://zenrojas.com/collections/teaware",
+        "https://zenrojas.com/cart",
+        "https://zenrojas.com/pages/contactus",
+        "https://zenrojas.com/pages/faqs",
+        "https://zenrojas.com/pages/returnpolicy",
+        "https://zenrojas.com/blogs/weekly-blog",
+        "https://zenrojas.com/pages/aboutus",
+        "https://zenrojas.com/pages/ambassadorprogram",
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/cart/change",
+        "https://zenrojas.com/customer_authentication/redirect",
+        "https://zenrojas.com/policies/terms-of-service",
+        "https://zenrojas.com/search"
+      ],
+      "external_links": [
+        "https://shopify.com/27573977165/account",
+        "https://twitter.com/ZenRojas0",
+        "https://www.facebook.com/zenrojas0",
+        "https://www.instagram.com/zen_rojas/",
+        "https://www.shopify.com/"
+      ],
+      "cta_button_text": [
+        "MENU",
+        "PRODUCTS PRODUCTS MENU",
+        "SEARCH AGAIN",
+        "VIEW CART",
+        "CONTINUE BROWSING HERE",
+        "Remove",
+        "Update Cart",
+        "Checkout",
+        "SUBSCRIBE"
+      ],
+      "forms_detected": [
+        {
+          "index": 0,
+          "action": "https://zenrojas.com/search",
+          "method": "get",
+          "labels": [],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search",
+              "text": "Search"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SEARCH AGAIN"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "action": "https://zenrojas.com/cart",
+          "method": "post",
+          "labels": [
+            "Quantity",
+            "Special instructions for seller"
+          ],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "number",
+              "name": "updates[]",
+              "placeholder": null,
+              "text": null
+            },
+            {
+              "tag": "textarea",
+              "type": null,
+              "name": "note",
+              "placeholder": null,
+              "text": null
+            },
+            {
+              "tag": "input",
+              "type": "submit",
+              "name": "update",
+              "placeholder": null,
+              "text": "Update Cart"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": "checkout",
+              "placeholder": null,
+              "text": "Checkout"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "action": "https://zenrojas.com/contact#contact_form",
+          "method": "post",
+          "labels": [
+            "STAY CONNECTED"
+          ],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": null,
+              "text": "customer"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": null,
+              "text": "✓"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "contact[tags]",
+              "placeholder": null,
+              "text": "newsletter"
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "contact[email]",
+              "placeholder": "My email address",
+              "text": "My email address"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SUBSCRIBE"
+            }
+          ]
+        }
+      ],
+      "product_signals": {
+        "looks_like_product": false,
+        "product_title_present": true,
+        "price_visible": true,
+        "compare_at_or_discount_visible": true,
+        "add_to_cart_visible": false,
+        "buy_button_visible": true,
+        "subscription_option_visible": true,
+        "variant_selector_visible": false,
+        "reviews_or_ratings_visible": false,
+        "shipping_or_returns_visible": true,
+        "stock_or_availability_visible": false,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": false,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": false,
+        "product_grid_visible": true,
+        "filters_visible": false,
+        "sorting_visible": false,
+        "category_copy_visible": true,
+        "product_cards_visible": true,
+        "price_visibility": true,
+        "review_visibility": false,
+        "quick_add_visible": false,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": true,
+        "products_linked": false,
+        "calls_to_action_visible": true,
+        "buying_or_locator_path_visible": false,
+        "appears_stale_empty_broken_or_thin": false
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/pages/privacypolicy"
+      ],
+      "image_count": 2,
+      "images_missing_alt_count": 1,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 673,
+        "load_event_ms": 1370,
+        "response_end_ms": 259
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 5067,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    },
+    {
+      "surface_type": "collection",
+      "url": "https://zenrojas.com/collections/all",
+      "final_url": "https://zenrojas.com/collections/all",
+      "status": 200,
+      "blocked": false,
+      "blocked_reasons": [],
+      "cloudflare_detected": false,
+      "artifact_label": "storefront_evidence",
+      "title": "Products – Zen Rojas",
+      "meta_description": "",
+      "screenshot_paths": {
+        "desktop": "artifacts/zenrojas.com-20260609T223052Z/screenshots/zenrojas.com-collections-all-ce5d200c-desktop.png",
+        "mobile": null
+      },
+      "html_path": "artifacts/zenrojas.com-20260609T223052Z/html/zenrojas.com-collections-all-ce5d200c.html",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-collections-all-ce5d200c.txt",
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-collections-all-ce5d200c.json",
+      "internal_links": [
+        "https://zenrojas.com/",
+        "https://zenrojas.com/products/blacktea",
+        "https://zenrojas.com/products/bodyguardtea",
+        "https://zenrojas.com/products/heartburntea",
+        "https://zenrojas.com/products/looseleafsamplers",
+        "https://zenrojas.com/products/organicsleeptea",
+        "https://zenrojas.com/products/premiumsenchagreentea",
+        "https://zenrojas.com/products/tea-bags",
+        "https://zenrojas.com/products/tea-seeper",
+        "https://zenrojas.com/products/teabagsamplers",
+        "https://zenrojas.com/products/unwind",
+        "https://zenrojas.com/products/zen-rojas-e-giftcard",
+        "https://zenrojas.com/products/zen-rojas-mug",
+        "https://zenrojas.com/collections/all",
+        "https://zenrojas.com/collections/gift-cards",
+        "https://zenrojas.com/collections/teas",
+        "https://zenrojas.com/collections/teaware",
+        "https://zenrojas.com/cart",
+        "https://zenrojas.com/pages/contactus",
+        "https://zenrojas.com/pages/faqs",
+        "https://zenrojas.com/pages/returnpolicy",
+        "https://zenrojas.com/blogs/weekly-blog",
+        "https://zenrojas.com/pages/aboutus",
+        "https://zenrojas.com/pages/ambassadorprogram",
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/customer_authentication/redirect",
+        "https://zenrojas.com/policies/terms-of-service",
+        "https://zenrojas.com/search"
+      ],
+      "external_links": [
+        "https://shopify.com/27573977165/account",
+        "https://twitter.com/ZenRojas0",
+        "https://www.facebook.com/zenrojas0",
+        "https://www.instagram.com/zen_rojas/",
+        "https://www.shopify.com/"
+      ],
+      "cta_button_text": [
+        "MENU",
+        "PRODUCTS PRODUCTS MENU",
+        "SEARCH AGAIN",
+        "VIEW CART",
+        "SUBSCRIBE",
+        "CLOSE CART",
+        "Remove",
+        "CHECKOUT"
+      ],
+      "forms_detected": [
+        {
+          "index": 0,
+          "action": "https://zenrojas.com/search",
+          "method": "get",
+          "labels": [],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "search",
+              "name": "q",
+              "placeholder": "Search",
+              "text": "Search"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SEARCH AGAIN"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "action": "https://zenrojas.com/contact#contact_form",
+          "method": "post",
+          "labels": [
+            "STAY CONNECTED"
+          ],
+          "inputs": [
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "form_type",
+              "placeholder": null,
+              "text": "customer"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "utf8",
+              "placeholder": null,
+              "text": "✓"
+            },
+            {
+              "tag": "input",
+              "type": "hidden",
+              "name": "contact[tags]",
+              "placeholder": null,
+              "text": "newsletter"
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "contact[email]",
+              "placeholder": "My email address",
+              "text": "My email address"
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": null,
+              "placeholder": null,
+              "text": "SUBSCRIBE"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "action": "https://zenrojas.com/cart",
+          "method": "post",
+          "labels": [
+            "Item Quantity",
+            "Special instructions for seller"
+          ],
+          "inputs": [
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "CLOSE CART"
+            },
+            {
+              "tag": "button",
+              "type": "button",
+              "name": null,
+              "placeholder": null,
+              "text": "Remove"
+            },
+            {
+              "tag": "input",
+              "type": "number",
+              "name": null,
+              "placeholder": null,
+              "text": "Item Quantity"
+            },
+            {
+              "tag": "textarea",
+              "type": null,
+              "name": "note",
+              "placeholder": null,
+              "text": null
+            },
+            {
+              "tag": "button",
+              "type": "submit",
+              "name": "checkout",
+              "placeholder": null,
+              "text": "CHECKOUT"
+            }
+          ]
+        }
+      ],
+      "product_signals": {
+        "looks_like_product": false,
+        "product_title_present": true,
+        "price_visible": true,
+        "compare_at_or_discount_visible": true,
+        "add_to_cart_visible": false,
+        "buy_button_visible": true,
+        "subscription_option_visible": true,
+        "variant_selector_visible": false,
+        "reviews_or_ratings_visible": false,
+        "shipping_or_returns_visible": true,
+        "stock_or_availability_visible": true,
+        "retailer_handoff_visible": false,
+        "quantity_selector_visible": true,
+        "bundle_or_upsell_visible": false,
+        "trust_badges_or_guarantees_visible": false
+      },
+      "collection_signals": {
+        "looks_like_collection": true,
+        "product_grid_visible": true,
+        "filters_visible": false,
+        "sorting_visible": true,
+        "category_copy_visible": true,
+        "product_cards_visible": true,
+        "price_visibility": true,
+        "review_visibility": false,
+        "quick_add_visible": false,
+        "need_or_use_case_navigation_visible": false,
+        "empty_or_broken_state": false
+      },
+      "content_signals": {
+        "looks_like_content_page": false,
+        "answers_high_intent_question": true,
+        "products_linked": true,
+        "calls_to_action_visible": true,
+        "buying_or_locator_path_visible": false,
+        "appears_stale_empty_broken_or_thin": false
+      },
+      "structured_data_count": 0,
+      "favicon_links": [],
+      "privacy_or_cookie_links": [
+        "https://zenrojas.com/pages/privacypolicy",
+        "https://zenrojas.com/pages/privacypolicy"
+      ],
+      "image_count": 13,
+      "images_missing_alt_count": 5,
+      "load_timing_ms": {
+        "dom_content_loaded_ms": 499,
+        "load_event_ms": 1153,
+        "response_end_ms": 250
+      },
+      "errors_or_blocking_details": [],
+      "elapsed_ms": 5507,
+      "mobile_capture_skipped": true,
+      "structured_data_types": []
+    }
+  ],
+  "technical_endpoints": {
+    "/robots.txt": {
+      "url": "https://zenrojas.com/robots.txt",
+      "final_url": "https://zenrojas.com/robots.txt",
+      "status": 200,
+      "ok": true,
+      "content_type": "text/plain; charset=utf-8",
+      "elapsed_ms": 251,
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-robots.txt-robots.txt-2a17c71d.bin",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-robots.txt-robots.txt-2a17c71d.txt",
+      "error": null
+    },
+    "/sitemap.xml": {
+      "url": "https://zenrojas.com/sitemap.xml",
+      "final_url": "https://zenrojas.com/sitemap.xml",
+      "status": 200,
+      "ok": true,
+      "content_type": "application/xml; charset=utf-8",
+      "elapsed_ms": 183,
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-sitemap.xml-sitemap.xml-d8357f0c.bin",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-sitemap.xml-sitemap.xml-d8357f0c.txt",
+      "error": null
+    },
+    "/sitemap_index.xml": {
+      "url": "https://zenrojas.com/sitemap_index.xml",
+      "final_url": "https://zenrojas.com/sitemap_index.xml",
+      "status": 404,
+      "ok": false,
+      "content_type": "application/xml; charset=utf-8",
+      "elapsed_ms": 180,
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-sitemap_index.xml-sitemap_index.xml-417f1a25.bin",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-sitemap_index.xml-sitemap_index.xml-417f1a25.txt",
+      "error": "HTTP Error 404: Not Found"
+    },
+    "/products.json": {
+      "url": "https://zenrojas.com/products.json",
+      "final_url": "https://zenrojas.com/products.json",
+      "status": 200,
+      "ok": true,
+      "content_type": "application/json; charset=utf-8",
+      "elapsed_ms": 260,
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-products.json-products.json-a7680a87.bin",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-products.json-products.json-a7680a87.txt",
+      "error": null
+    },
+    "/collections.json": {
+      "url": "https://zenrojas.com/collections.json",
+      "final_url": "https://zenrojas.com/collections.json",
+      "status": 200,
+      "ok": true,
+      "content_type": "application/json; charset=utf-8",
+      "elapsed_ms": 214,
+      "raw_path": "artifacts/zenrojas.com-20260609T223052Z/raw/zenrojas.com-collections.json-collections.json-35369c18.bin",
+      "text_path": "artifacts/zenrojas.com-20260609T223052Z/text/zenrojas.com-collections.json-collections.json-35369c18.txt",
+      "error": null
+    }
+  },
+  "technical_checks": [
+    {
+      "check": "SSL",
+      "status": "Pass",
+      "detail": "Normalized URL scheme: https."
+    },
+    {
+      "check": "HTTPS redirect",
+      "status": "Pass",
+      "detail": "Homepage final URL: https://zenrojas.com/."
+    },
+    {
+      "check": "Robots.txt",
+      "status": "Pass",
+      "detail": "Status: 200."
+    },
+    {
+      "check": "Sitemap",
+      "status": "Pass",
+      "detail": "Status: 200."
+    },
+    {
+      "check": "Shopify products JSON",
+      "status": "Pass",
+      "detail": "Status: 200."
+    },
+    {
+      "check": "Shopify collections JSON",
+      "status": "Pass",
+      "detail": "Status: 200."
+    },
+    {
+      "check": "Homepage loads",
+      "status": "Pass",
+      "detail": "Status: 200; blocked: False."
+    },
+    {
+      "check": "Product page sampled",
+      "status": "Pass",
+      "detail": "Sampled URL: https://zenrojas.com/products/blacktea."
+    },
+    {
+      "check": "Collection page sampled",
+      "status": "Pass",
+      "detail": "Sampled URL: https://zenrojas.com/collections/best-sellers."
+    },
+    {
+      "check": "Cart reachable",
+      "status": "Pass",
+      "detail": "Status: 200; blocked: False."
+    },
+    {
+      "check": "Meta titles",
+      "status": "Pass",
+      "detail": "At least one rendered page exposed a title."
+    },
+    {
+      "check": "Meta descriptions",
+      "status": "Pass",
+      "detail": "At least one rendered page exposed a meta description."
+    },
+    {
+      "check": "Structured data",
+      "status": "Warn",
+      "detail": "No JSON-LD found in rendered pages."
+    },
+    {
+      "check": "Favicon",
+      "status": "Warn",
+      "detail": "No favicon link found."
+    },
+    {
+      "check": "Cookie/privacy link",
+      "status": "Pass",
+      "detail": "Privacy or cookie link found."
+    },
+    {
+      "check": "Broken internal links sampled",
+      "status": "Pass",
+      "detail": "0 sampled broken links found."
+    },
+    {
+      "check": "Missing image alt text",
+      "status": "Warn",
+      "detail": "31 images without alt text in rendered samples."
+    },
+    {
+      "check": "Rough browser timing captured",
+      "status": "Pass",
+      "detail": "Navigation timing collected from rendered pages."
+    }
+  ],
+  "failed_pages": [],
+  "sampled_broken_internal_links": [],
+  "limits_known_gaps": [
+    "Artifact collection only; no audit report, proposed experiments, or competitor analysis generated.",
+    "Rendered crawl is intentionally bounded to representative storefront surfaces rather than the full site.",
+    "Screenshots and DOM extraction depend on pages that are reachable from this runtime without manual authentication.",
+    "Rough browser timing is based on Playwright navigation timing and is not a Lighthouse performance audit.",
+    "Broken-link checks are sampled from discovered internal links to keep the crawl bounded."
+  ]
+}

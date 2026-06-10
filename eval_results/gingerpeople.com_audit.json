@@ -1,0 +1,148 @@
+{
+  "score": 97,
+  "passed": true,
+  "report": "sample_output/gingerpeople.com_audit.md",
+  "report_path": "sample_output/gingerpeople.com_audit.md",
+  "manifest": "artifacts/gingerpeople.com-20260609T195304Z/manifest.json",
+  "manifest_path": "artifacts/gingerpeople.com-20260609T195304Z/manifest.json",
+  "selected_run": "artifacts/gingerpeople.com-20260609T195304Z",
+  "failures": [],
+  "warnings": [
+    {
+      "check": "technical_status_checkout",
+      "message": "Checkout reachable is marked Fail, but the detail only proves cart availability rather than checkout failure: `/cart` returned 404 in the selected crawl, and no checkout route was reached."
+    }
+  ],
+  "details": {
+    "major_sections": [
+      "Executive summary",
+      "Proposed experiments",
+      "Competitor analysis",
+      "Technical checks"
+    ],
+    "experiment_count": 10,
+    "experiment_headings": [
+      "exp-gp-001 - Make PDP purchase handoff explicit",
+      "exp-gp-002 - Stabilize the Where To Buy locator page",
+      "exp-gp-003 - Replace `/cart` 404 with purchase recovery",
+      "exp-gp-004 - Add need-based navigation to the homepage",
+      "exp-gp-005 - Build a GIN GINS flavor and strength chooser",
+      "exp-gp-006 - Merchandise cooking uses into pantry bundles",
+      "exp-gp-007 - Turn health blog topics into product-guided landing paths",
+      "exp-gp-008 - Create a FAQ buying assistant",
+      "exp-gp-009 - Make the Ginger Lovers Club a routine builder",
+      "exp-gp-010 - Improve crawl-visible image accessibility and discovery"
+    ],
+    "pillars": [
+      "AOV",
+      "Acquisition",
+      "Conversion",
+      "Performance",
+      "Retention"
+    ],
+    "competitor_table": true,
+    "technical_table": true,
+    "artifact_path_count": 14,
+    "artifact_paths": [
+      "artifacts/gingerpeople.com-20260609T195304Z/manifest.json",
+      "artifacts/gingerpeople.com-20260609T195304Z/screenshots/gingerpeople.com-5f9a8666-desktop.png",
+      "artifacts/gingerpeople.com-20260609T195304Z/screenshots/gingerpeople.com-cart-ad3f1cf6-desktop.png",
+      "artifacts/gingerpeople.com-20260609T195304Z/screenshots/gingerpeople.com-faqs-b5a2390d-desktop.png",
+      "artifacts/gingerpeople.com-20260609T195304Z/screenshots/gingerpeople.com-health-blog-ea16ba2d-desktop.png",
+      "artifacts/gingerpeople.com-20260609T195304Z/screenshots/gingerpeople.com-products-gin-gins-lemon-ginger-chews-da248a63-desktop.png",
+      "artifacts/gingerpeople.com-20260609T195304Z/screenshots/gingerpeople.com-where-to-buy-the-ginger-people-products-2c7d923c-desktop.png",
+      "artifacts/gingerpeople.com-20260609T195304Z/text/gingerpeople.com-5f9a8666.txt",
+      "artifacts/gingerpeople.com-20260609T195304Z/text/gingerpeople.com-cart-ad3f1cf6.txt",
+      "artifacts/gingerpeople.com-20260609T195304Z/text/gingerpeople.com-faqs-b5a2390d.txt",
+      "artifacts/gingerpeople.com-20260609T195304Z/text/gingerpeople.com-health-blog-ea16ba2d.txt",
+      "artifacts/gingerpeople.com-20260609T195304Z/text/gingerpeople.com-products-crystallized-ginger-chips-6676f252.txt",
+      "artifacts/gingerpeople.com-20260609T195304Z/text/gingerpeople.com-products-gin-gins-lemon-ginger-chews-da248a63.txt",
+      "artifacts/gingerpeople.com-20260609T195304Z/text/gingerpeople.com-where-to-buy-the-ginger-people-products-2c7d923c.txt"
+    ],
+    "screenshot_path_count": 6,
+    "high_confidence_count": 0,
+    "high_confidences": [],
+    "high_lift_range_count": 0,
+    "high_lift_ranges": [],
+    "unsupported_claim_language_count": 0,
+    "unsupported_claim_language_matches": [],
+    "parsed_technical_checks": [
+      {
+        "check": "SSL",
+        "status": "Pass",
+        "detail": "The normalized URL uses HTTPS, and the homepage rendered at `https://gingerpeople.com/`; evidence: `artifacts/gingerpeople.com-20260609T195304Z/manifest.json`."
+      },
+      {
+        "check": "HTTPS redirect",
+        "status": "Warn",
+        "detail": "The selected run loaded the HTTPS final URL, but it did not explicitly prove an HTTP-to-HTTPS redirect chain."
+      },
+      {
+        "check": "Sitemap",
+        "status": "Warn",
+        "detail": "`/sitemap.xml` and `/sitemap_index.xml` returned 403 to the crawler; evidence in manifest technical endpoints."
+      },
+      {
+        "check": "Robots.txt",
+        "status": "Warn",
+        "detail": "`/robots.txt` returned 403 to the crawler; evidence in manifest technical endpoints."
+      },
+      {
+        "check": "Critical pages loading",
+        "status": "Warn",
+        "detail": "Homepage, FAQ, contact, Where To Buy, health blog, and PDPs rendered with 200 statuses, but `/cart` returned 404."
+      },
+      {
+        "check": "Meta tags",
+        "status": "Pass",
+        "detail": "Rendered pages exposed titles and at least one meta description in the selected manifest."
+      },
+      {
+        "check": "Structured data",
+        "status": "Pass",
+        "detail": "JSON-LD structured data was detected on rendered pages in the selected manifest."
+      },
+      {
+        "check": "Favicon",
+        "status": "Pass",
+        "detail": "Favicon links were found on rendered pages in the selected manifest."
+      },
+      {
+        "check": "Mobile friendliness",
+        "status": "Warn",
+        "detail": "Mobile capture was disabled by the required `--no-mobile` crawl, so no mobile layout artifact was collected."
+      },
+      {
+        "check": "Mobile page speed",
+        "status": "Warn",
+        "detail": "No mobile Lighthouse or Core Web Vitals run was collected."
+      },
+      {
+        "check": "Desktop page speed",
+        "status": "Warn",
+        "detail": "Rough Playwright timing was captured, but no Lighthouse performance audit was collected."
+      },
+      {
+        "check": "Broken links",
+        "status": "Warn",
+        "detail": "The manifest lists sampled broken/blocked internal checks and failed malformed FAQ-derived URLs; browser-rendered critical pages still loaded, so this needs follow-up validation."
+      },
+      {
+        "check": "Image optimization",
+        "status": "Warn",
+        "detail": "The manifest reports 200 missing-alt images in rendered samples; byte-size, format, and compression were not measured."
+      },
+      {
+        "check": "Cookie/privacy",
+        "status": "Warn",
+        "detail": "A Privacy Policy link was detected, but consent behavior was not audited."
+      },
+      {
+        "check": "Checkout reachable",
+        "status": "Fail",
+        "detail": "`/cart` returned 404 in the selected crawl, and no checkout route was reached."
+      }
+    ],
+    "technical_warning_count": 1
+  }
+}
